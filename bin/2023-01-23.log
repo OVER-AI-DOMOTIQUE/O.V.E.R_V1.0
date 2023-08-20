@@ -1,0 +1,114 @@
+[13:30:51] [LOGGING]	 STARTING LOGGING
+[13:30:53] [INIT]	 ==========================================
+[13:30:53] [INIT]	 S.A.R.A.H. => MICRO
+[13:30:53] [INIT]	 ==========================================
+[13:30:53] [INIT]	 Server: http://127.0.0.1:8080
+[13:30:53] [INIT]	 Confidence: 0,65
+[13:30:53] [INIT]	 ==========================================
+[13:30:57] [INIT]	 Starting Server: http://192.168.43.68:8888/
+[13:30:57] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[13:30:57] [WATCHER]	 Stop watching
+[13:30:57] [GRAMMAR]	 Load file: time.xml : C:\Users\over\Downloads\O.V.E.R\macros\time.xml
+[13:30:57] [GRAMMAR]	 Add to context list: time.xml
+[13:30:57] [WATCHER]	 Watching directory: macros
+[13:30:57] [WATCHER]	 Watching directory: plugins
+[13:30:57] [WATCHER]	 Start watching
+[13:30:57] [GRAMMAR]	 Context: default
+[13:30:57] [GRAMMAR]	 Context: time.xml
+[13:31:02] [GRAMMAR]	 File: Load Grammar to Engine
+[13:31:02] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:31:06] [ENGINE - File]	 Init recognizer
+[13:31:06] [ENGINE - File]	 AudioLevel: 0
+[13:31:06] [ENGINE - File]	 MaxAlternates: 1
+[13:31:06] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:31:06] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:31:06] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:31:06] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:31:06] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:31:06] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:31:06] [ENGINE - Default]	 Init recognizer
+[13:31:06] [ENGINE - Default]	 AudioLevel: 0
+[13:31:06] [ENGINE - Default]	 MaxAlternates: 1
+[13:31:06] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:31:06] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:31:06] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:31:06] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:31:07] [ENGINE - Default]	 Start listening
+[13:31:07] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:31:08] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:31:09] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Realtek High Def Channels: 2 Playback: True
+[13:31:10] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:31:10] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:31:10] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:31:10] [ENGINE]	 Restart timeout: 3600000
+[13:31:19] [RTPCLIENT]	 Stop RTPClient
+[13:31:19] [RTPCLIENT]	 Stop RTPClient
+[13:31:19] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:31:19] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:31:20] [ENGINE - File]	 Stop listening...done
+[13:31:20] [ENGINE - Default]	 Stop listening...done
+[13:34:43] [LOGGING]	 STARTING LOGGING
+[13:34:44] [INIT]	 ==========================================
+[13:34:44] [INIT]	 S.A.R.A.H. => MICRO
+[13:34:44] [INIT]	 ==========================================
+[13:34:44] [INIT]	 Server: http://127.0.0.1:8080
+[13:34:44] [INIT]	 Confidence: 0,65
+[13:34:44] [INIT]	 ==========================================
+[13:34:44] [INIT]	 Starting Server: http://192.168.43.68:8888/
+[13:34:44] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[13:34:44] [WATCHER]	 Stop watching
+[13:34:44] [GRAMMAR]	 Load file: time.xml : C:\Users\over\Downloads\O.V.E.R\macros\time.xml
+[13:34:44] [GRAMMAR]	 Add to context list: time.xml
+[13:34:44] [WATCHER]	 Watching directory: macros
+[13:34:44] [GRAMMAR]	 Load file: jarvis.xml : C:\Users\over\Downloads\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:34:44] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:34:44] [WATCHER]	 Watching directory: plugins
+[13:34:44] [WATCHER]	 Start watching
+[13:34:44] [GRAMMAR]	 Context: default
+[13:34:44] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:34:44] [GRAMMAR]	 File: Load Grammar to Engine
+[13:34:44] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:34:44] [GRAMMAR]	 File: Load Grammar to Engine
+[13:34:45] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:34:45] [ENGINE - File]	 Init recognizer
+[13:34:45] [ENGINE - File]	 AudioLevel: 0
+[13:34:45] [ENGINE - File]	 MaxAlternates: 1
+[13:34:45] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:34:45] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:34:45] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:34:45] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:34:45] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:34:45] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:34:45] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:34:45] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:34:45] [ENGINE - Default]	 Init recognizer
+[13:34:45] [ENGINE - Default]	 AudioLevel: 0
+[13:34:45] [ENGINE - Default]	 MaxAlternates: 1
+[13:34:45] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:34:45] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:34:45] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:34:45] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:34:45] [ENGINE - Default]	 Start listening
+[13:34:45] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:34:45] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:34:45] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Realtek High Def Channels: 2 Playback: True
+[13:34:45] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:34:45] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:34:45] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:34:45] [ENGINE]	 Restart timeout: 3600000
+[13:34:50] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9
+[13:34:53] [TTS]	 Try speaking ... initialisation terminé
+[13:34:53] [TTS]	 [0] Say: initialisation terminé
+[13:34:55] [PLAYER]	 [0]Start Player
+[13:34:56] [ENGINE - Default]	 recognizer_SpeechHypothesized SARAH => 0,001
+[13:34:56] [ENGINE - Default]	 recognizer_SpeechHypothesized SARAH il est => 0,3287516
+[13:34:56] [PLAYER]	 [0]End Player
+[13:34:56] [PLAYER]	 [0]speaking false
+[13:34:56] [TTS]	 End speaking
+[13:35:05] [RTPCLIENT]	 Stop RTPClient
+[13:35:05] [RTPCLIENT]	 Stop RTPClient
+[13:35:05] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:35:05] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:35:05] [ENGINE - File]	 Stop listening...done
+[13:35:05] [ENGINE - Default]	 RecognizeCompleted (35:05.4): <null>
+[13:35:05] [ENGINE - Default]	 Stop listening...done

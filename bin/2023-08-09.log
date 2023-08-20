@@ -1,0 +1,160 @@
+[17:40:33] [LOGGING]	 STARTING LOGGING
+[17:40:33] [INIT]	 ==========================================
+[17:40:33] [INIT]	 S.A.R.A.H. => MICRO
+[17:40:33] [INIT]	 ==========================================
+[17:40:33] [INIT]	 Server: http://127.0.0.1:8080
+[17:40:33] [INIT]	 Confidence: 0,65
+[17:40:33] [INIT]	 ==========================================
+[17:40:34] [INIT]	 Starting Server: http://192.168.1.160:8888/
+[17:40:34] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[17:40:34] [WATCHER]	 Stop watching
+[17:40:34] [GRAMMAR]	 Load file: time.xml : E:\Dev\O.V.E.R\macros\time.xml
+[17:40:34] [GRAMMAR]	 Add to context list: time.xml
+[17:40:34] [WATCHER]	 Watching directory: macros
+[17:40:34] [GRAMMAR]	 Load file: jarvis.xml : E:\Dev\O.V.E.R\plugins\jarvis\jarvis.xml
+[17:40:34] [GRAMMAR]	 Add to context list: jarvis.xml
+[17:40:34] [WATCHER]	 Watching directory: plugins
+[17:40:34] [WATCHER]	 Start watching
+[17:40:34] [GRAMMAR]	 Context: default
+[17:40:34] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[17:40:34] [GRAMMAR]	 File: Load Grammar to Engine
+[17:40:35] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[17:40:35] [GRAMMAR]	 File: Load Grammar to Engine
+[17:40:35] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[17:40:35] [ENGINE - File]	 Init recognizer
+[17:40:35] [ENGINE - File]	 AudioLevel: 0
+[17:40:35] [ENGINE - File]	 MaxAlternates: 1
+[17:40:35] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[17:40:35] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[17:40:35] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[17:40:35] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:40:35] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:40:35] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[17:40:35] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:40:35] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[17:40:35] [ENGINE - Default]	 Init recognizer
+[17:40:35] [ENGINE - Default]	 AudioLevel: 0
+[17:40:35] [ENGINE - Default]	 MaxAlternates: 1
+[17:40:35] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[17:40:35] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[17:40:35] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[17:40:35] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:40:35] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:40:35] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:40:36] [TTS]	 Add Speaker Device: 0 Product: 32W_LCD_TV (Son Intel(R) pour é Channels: 2 Playback: True
+[17:40:36] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[17:40:36] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[17:40:36] [ENGINE]	 Restart timeout: 3600000
+[17:40:38] [RTPCLIENT]	 Stop RTPClient
+[17:40:38] [RTPCLIENT]	 Stop RTPClient
+[17:40:38] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:40:38] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:40:38] [ENGINE - File]	 Stop listening...done
+[17:41:23] [LOGGING]	 STARTING LOGGING
+[17:41:24] [INIT]	 ==========================================
+[17:41:24] [INIT]	 S.A.R.A.H. => MICRO
+[17:41:24] [INIT]	 ==========================================
+[17:41:24] [INIT]	 Server: http://127.0.0.1:8080
+[17:41:24] [INIT]	 Confidence: 0,65
+[17:41:24] [INIT]	 ==========================================
+[17:41:24] [INIT]	 Starting Server: http://192.168.1.160:8888/
+[17:41:24] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[17:41:24] [WATCHER]	 Stop watching
+[17:41:24] [GRAMMAR]	 Load file: time.xml : E:\Dev\O.V.E.R\macros\time.xml
+[17:41:24] [GRAMMAR]	 Add to context list: time.xml
+[17:41:24] [WATCHER]	 Watching directory: macros
+[17:41:24] [GRAMMAR]	 Load file: jarvis.xml : E:\Dev\O.V.E.R\plugins\jarvis\jarvis.xml
+[17:41:24] [GRAMMAR]	 Add to context list: jarvis.xml
+[17:41:24] [WATCHER]	 Watching directory: plugins
+[17:41:24] [WATCHER]	 Start watching
+[17:41:24] [GRAMMAR]	 Context: default
+[17:41:24] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[17:41:24] [GRAMMAR]	 File: Load Grammar to Engine
+[17:41:24] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[17:41:24] [GRAMMAR]	 File: Load Grammar to Engine
+[17:41:24] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[17:41:24] [ENGINE - File]	 Init recognizer
+[17:41:24] [ENGINE - File]	 AudioLevel: 0
+[17:41:24] [ENGINE - File]	 MaxAlternates: 1
+[17:41:24] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[17:41:24] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[17:41:24] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[17:41:24] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:41:24] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:41:24] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[17:41:24] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:41:24] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[17:41:24] [ENGINE - Default]	 Init recognizer
+[17:41:24] [ENGINE - Default]	 AudioLevel: 0
+[17:41:24] [ENGINE - Default]	 MaxAlternates: 1
+[17:41:24] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[17:41:24] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[17:41:24] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[17:41:24] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:41:24] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:41:24] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:41:24] [TTS]	 Add Speaker Device: 0 Product: 32W_LCD_TV (Son Intel(R) pour é Channels: 2 Playback: True
+[17:41:24] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[17:41:24] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[17:41:24] [ENGINE]	 Restart timeout: 3600000
+[17:41:39] [LOGGING]	 STARTING LOGGING
+[17:41:39] [INIT]	 ==========================================
+[17:41:39] [INIT]	 S.A.R.A.H. => MICRO
+[17:41:39] [INIT]	 ==========================================
+[17:41:39] [INIT]	 Server: http://127.0.0.1:8080
+[17:41:39] [INIT]	 Confidence: 0,65
+[17:41:39] [INIT]	 ==========================================
+[17:41:39] [HTTP]	 Exception: Failed to start HTTP server
+[17:41:39] [HTTP]	 Exception: Failed to start HTTP server
+[17:41:39] [WATCHER]	 Stop watching
+[17:41:39] [GRAMMAR]	 Load file: time.xml : E:\Dev\O.V.E.R\macros\time.xml
+[17:41:39] [GRAMMAR]	 Add to context list: time.xml
+[17:41:39] [WATCHER]	 Watching directory: macros
+[17:41:39] [GRAMMAR]	 Load file: jarvis.xml : E:\Dev\O.V.E.R\plugins\jarvis\jarvis.xml
+[17:41:39] [GRAMMAR]	 Add to context list: jarvis.xml
+[17:41:39] [WATCHER]	 Watching directory: plugins
+[17:41:39] [WATCHER]	 Start watching
+[17:41:39] [GRAMMAR]	 Context: default
+[17:41:39] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[17:41:39] [GRAMMAR]	 File: Load Grammar to Engine
+[17:41:40] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[17:41:40] [GRAMMAR]	 File: Load Grammar to Engine
+[17:41:40] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[17:41:40] [ENGINE - File]	 Init recognizer
+[17:41:40] [ENGINE - File]	 AudioLevel: 0
+[17:41:40] [ENGINE - File]	 MaxAlternates: 1
+[17:41:40] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[17:41:40] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[17:41:40] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[17:41:40] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:41:40] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:41:40] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[17:41:40] [GRAMMAR]	 Default: Load Grammar to Engine
+[17:41:40] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[17:41:40] [ENGINE - Default]	 Init recognizer
+[17:41:40] [ENGINE - Default]	 AudioLevel: 0
+[17:41:40] [ENGINE - Default]	 MaxAlternates: 1
+[17:41:40] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[17:41:40] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[17:41:40] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[17:41:40] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[17:41:40] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:41:40] [ENGINE]	 InitEngines: Impossible de trouver l'élément de donnée demandé, tel qu'une valeur ou clé de donnée.
+[17:41:40] [TTS]	 Add Speaker Device: 0 Product: 32W_LCD_TV (Son Intel(R) pour é Channels: 2 Playback: True
+[17:41:40] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[17:41:40] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[17:41:40] [ENGINE]	 Restart timeout: 3600000
+[17:41:44] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[17:41:44] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[17:41:44] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[17:41:46] [PLAYER]	 [0]Start Player
+[17:41:51] [RTPCLIENT]	 Stop RTPClient
+[17:41:51] [RTPCLIENT]	 Stop RTPClient
+[17:41:51] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:41:51] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:41:52] [ENGINE - File]	 Stop listening...done
+[17:41:54] [RTPCLIENT]	 Stop RTPClient
+[17:41:54] [RTPCLIENT]	 Stop RTPClient
+[17:41:54] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:41:54] [RTPCLIENT]	 Stop RTPClient ... Done
+[17:41:54] [ENGINE - File]	 Stop listening...done

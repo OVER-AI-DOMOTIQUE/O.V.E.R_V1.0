@@ -1,0 +1,105 @@
+	<grammar version="1.0" xml:lang="fr-FR" mode="voice" root="rulejarvis" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+  <rule id="rulejarvis" scope="public">
+    <tag>out.action=new Object(); </tag>
+
+    <item>Sarah</item>
+
+    <one-of>
+	
+<!--Gestion OVER-->
+							<!--Fichier OVER-->
+	  <item>affiche ton dossier<tag>out.action.val="DossierOver"</tag></item>
+	  <item>affiche ton dossier<tag>out.action.val="DossierOver"</tag></item>
+	  <item>Affiche ton plugine<tag>out.action.val="DossierPlugins"</tag></item>
+	  <item>affiche ton plugin<tag>out.action.val="DossierPlugins"</tag></item>
+	  <item>affiche ton dossier bin<tag>out.action.val="DossierBin"</tag></item>
+	  <item>affiche ton dossier bine<tag>out.action.val="DossierBin"</tag></item>
+							<!--ReBoot OVER-->
+	  <item>relance ton systaime<tag>out.action.val="ReBootOver"</tag></item>
+	  <item>relance ton systaim<tag>out.action.val="ReBootOver"</tag></item>
+	  <item>redémar ton systaime<tag>out.action.val="ReBootOver"</tag></item>
+	  <item>redémar ton systaim<tag>out.action.val="ReBootOver"</tag></item>
+	  						<!--Intéraction OVER-->
+	  <item>tu est la<tag>out.action.val="la"</tag></item>
+	  <item>tu ai la<tag>out.action.val="la"</tag></item>
+	  <item>est tu la<tag>out.action.val="la"</tag></item>
+	  <item>ai tu la<tag>out.action.val="la"</tag></item>
+	  <item>Affiche moi tes command vocal<tag>out.action.val="CommandVocal"</tag></item>
+	  <item>affiche tes command vocal<tag>out.action.val="CommandVocal"</tag></item>
+
+
+
+<!-- affichage écran -->
+							<!-- Bureaux -->
+ 	  <item>affiche le bureau<tag>out.action.val="Minimize"</tag></item>
+ 	  <item>va sur le bureau<tag>out.action.val="Minimize"</tag></item>
+	  <item>restore<tag>out.action.val="Restore"</tag></item>
+	  <item>affiche les fenetres<tag>out.action.val="Restore"</tag></item>
+   							<!-- Ecran On Off -->
+	  <item>éteind l'écran<tag>out.action.val="ScreenOff"</tag></item>
+	  <item>allume l'écran<tag>out.action.val="ScreenOn"</tag></item>
+
+
+
+<!--Gestion App Windows-->
+							<!-- Explorateur Windows -->
+	  <item>affiche mes documents<tag>out.action.val="Documents"</tag></item>
+	  <item>affiche les documents<tag>out.action.val="Documents"</tag></item>
+	  <item>affiche mes téléchargements<tag>out.action.val="Téléchargements"</tag></item>
+	  <item>affiche les téléchargements<tag>out.action.val="Téléchargements"</tag></item>
+	  <item>affiche mes Vidéo<tag>out.action.val="Vidéo"</tag></item>
+	  <item>affiche les Vidéo<tag>out.action.val="Vidéo"</tag></item>
+						 <!-- Navigation Internet -->
+							<!-- Gestion Onglet -->
+	  <item>ferme l'onglet<tag>out.action.val="OngletClose"</tag></item>
+	  <item>ouvre l'onglet<tag>out.action.val="OngletNew"</tag></item>
+
+
+
+<!-- Gestion Des Périphériques PC --> 
+							<!-- Eteindre L'ordinateur -->
+	  <item>éteind le PC<tag>out.action.val="RunShutDown"</tag></item>
+	  <item>éteind l'PC<tag>out.action.val="RunShutDown"</tag></item>
+	  <item>éteind l'ordinateur<tag>out.action.val="RunShutDown"</tag></item>
+	  <item>arrête le PC<tag>out.action.val="RunShutDown"</tag></item>
+	  <item>arrête l'ordinateur<tag>out.action.val="RunShutDown"</tag></item>
+	  						<!-- Redémaré L'ordinateur -->
+	  <item>redémar le PC<tag>out.action.val="RunReStart"</tag></item>
+	  <item>redémar l'ordinateur<tag>out.action.val="RunReStart"</tag></item>
+	  						<!-- Verouiller De L'ordinateur -->
+	  <item>Vérouille l'ordinateur<tag>out.action.val="PcLock"</tag></item>
+	  <item>Vérouille le PC<tag>out.action.val="PcLock"</tag></item>
+	  <item>Mode sécurité<tag>out.action.val="PcLock"</tag></item>
+						  <!-- Gestion Lecteur Cd/Dvd -->
+	 <item>ouvre le Dévédé<tag>out.action.val="DvdOn"</tag></item>
+	 <item>ouvre le lecteur<tag>out.action.val="DvdOn"</tag></item>
+	 <item>ferme le Dévédé<tag>out.action.val="DvdOff"</tag></item>
+	 <item>ferme le lecteur<tag>out.action.val="DvdOff"</tag></item>
+	 						<!-- Gestion Du Song -->
+	 <item>monte le volume<tag>out.action.val="VolumeUp"</tag></item>
+	 <item>monte le song<tag>out.action.val="VolumeUp"</tag></item>
+	 <item>baisse le volume<tag>out.action.val="VolumeDown"</tag></item>
+	 <item>baisse le song<tag>out.action.val="VolumeDown"</tag></item>
+	 <item>met le volume a fond<tag>out.action.val="VolumeMax"</tag></item>
+	 <item>baisse le volume a fond<tag>out.action.val="VolumeMute"</tag></item>
+	
+
+
+<!-- Autre Fonction -->
+	  <item>Ferme la page<tag>out.action.val="Close"</tag></item>
+	  <item>ferm la page<tag>out.action.val="Close"</tag></item>
+	  <item>Ferme la fenetre<tag>out.action.val="Close"</tag></item>
+	  <item>ferm la fenetre<tag>out.action.val="Close"</tag></item>
+	  <item>raffraichis<tag>out.action.val="Actualise"</tag></item>
+	  <item>met a jour<tag>out.action.val="Actualise"</tag></item>
+	  <item>préçedent<tag>out.action.val="Precedent"</tag></item>
+	  <item>suivant<tag>out.action.val="Suivant"</tag></item>
+	  <item>valide<tag>out.action.val="Enter"</tag></item>
+	  <item>sauvegarde<tag>out.action.val="Save"</tag></item>
+	  <item>fenêtre suivante<tag>out.action.val="Tab"</tag></item>
+	  
+    </one-of>
+
+    <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/jarvis";</tag>
+  </rule> 
+</grammar>

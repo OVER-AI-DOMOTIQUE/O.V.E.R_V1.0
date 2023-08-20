@@ -1,0 +1,637 @@
+{"level":"info","message":"==========================================","timestamp":"2023-01-23T12:34:16.917Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-23T12:34:16.919Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-23T12:34:16.920Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-23T12:34:24.296Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-23T12:34:24.319Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-23T12:34:24.322Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-23T12:34:24.343Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-23T12:34:24.373Z"}
+{"level":"info","message":"Speak remote: initialisation terminé no callback","timestamp":"2023-01-23T12:34:24.385Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9","timestamp":"2023-01-23T12:34:24.386Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-23T12:34:24.394Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-01-23T12:34:25.446Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-23T12:34:26.014Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-23T12:34:49.299Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-23T12:34:49.302Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-23T12:34:49.303Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-23T12:34:50.004Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-23T12:34:50.016Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-23T12:34:50.020Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-23T12:34:50.021Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-23T12:34:50.035Z"}
+{"level":"info","message":"Speak remote: initialisation terminé no callback","timestamp":"2023-01-23T12:34:50.037Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9","timestamp":"2023-01-23T12:34:50.038Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-23T12:34:50.046Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-23T12:34:51.556Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:04:07.669Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-28T18:04:07.674Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:04:07.675Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-28T18:04:10.025Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-28T18:04:10.045Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-28T18:04:10.055Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-28T18:04:10.060Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-28T18:04:10.095Z"}
+{"level":"info","message":"Speak remote: initialisation terminé no callback","timestamp":"2023-01-28T18:04:10.097Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9","timestamp":"2023-01-28T18:04:10.098Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-28T18:04:10.120Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-28T18:04:11.067Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-01-28T18:04:11.167Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:07:11.874Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-28T18:07:11.881Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:07:11.882Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-28T18:07:13.243Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-28T18:07:13.267Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-28T18:07:13.273Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-28T18:07:13.274Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-28T18:07:13.304Z"}
+{"level":"info","message":"Speak remote: initialisation terminé no callback","timestamp":"2023-01-28T18:07:13.307Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9","timestamp":"2023-01-28T18:07:13.307Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-28T18:07:13.319Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-28T18:07:14.159Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-28T18:07:34.421Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:08:32.589Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-28T18:08:32.593Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-28T18:08:32.593Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-28T18:08:33.726Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-28T18:08:33.749Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-28T18:08:33.758Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-28T18:08:33.759Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-28T18:08:33.798Z"}
+{"level":"info","message":"Speak remote: initialisation terminé no callback","timestamp":"2023-01-28T18:08:33.801Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9","timestamp":"2023-01-28T18:08:33.802Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-28T18:08:33.814Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-28T18:08:34.703Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:04:10.807Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:04:10.811Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:04:10.812Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:04:17.755Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:04:17.792Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:04:17.814Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:04:17.830Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:04:17.884Z"}
+{"level":"info","message":"Speak remote: initialisation terminé; Que puije faire pour vous? no callback","timestamp":"2023-01-29T12:04:17.886Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9%3B%20Que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:04:17.887Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:04:17.900Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:04:18.847Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:04:39.002Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:06:33.607Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:06:33.610Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:06:33.611Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:06:34.700Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:06:34.717Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:06:34.722Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:06:34.723Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:06:34.846Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:06:34.848Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:06:34.849Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:06:34.860Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:06:35.694Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:07:32.545Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:07:32.548Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:07:32.549Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:07:33.635Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:07:33.648Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:07:33.654Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:07:33.655Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:07:33.683Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:07:33.685Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:07:33.686Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:07:33.697Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:07:34.440Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:07:42.544Z"}
+{"level":"info","message":"Run time: 49ms","timestamp":"2023-01-29T12:07:42.545Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:07:54.781Z"}
+{"level":"info","message":"Run time: 17ms","timestamp":"2023-01-29T12:08:06.363Z"}
+{"level":"warn","message":"Run jarvis: Cannot read property 'length' of undefined","timestamp":"2023-01-29T12:08:19.978Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:10:16.554Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:10:16.557Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:10:16.558Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:10:17.874Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:10:17.893Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:10:17.899Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:10:17.900Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:10:17.929Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:10:17.931Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:10:17.932Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:10:17.944Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:10:18.837Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-01-29T12:10:18.974Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:10:39.086Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:21:13.701Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:21:13.706Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:21:13.706Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:21:15.015Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:21:15.035Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:21:15.044Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:21:15.045Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:21:15.074Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:21:15.077Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:21:15.078Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:21:15.089Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:21:17.231Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:21:30.423Z"}
+{"level":"info","message":"Run time: 22ms","timestamp":"2023-01-29T12:21:30.425Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:21:36.200Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:22:56.505Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:22:56.510Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:22:56.510Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:22:58.976Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:22:59.088Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:22:59.095Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:22:59.096Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:22:59.165Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:22:59.176Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:22:59.177Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:22:59.192Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:23:00.287Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:23:53.541Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:23:53.545Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:23:53.546Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:23:54.946Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:23:54.963Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:23:54.969Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:23:54.970Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:23:54.999Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:23:55.001Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:23:55.001Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:23:55.012Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:23:55.846Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:24:09.093Z"}
+{"level":"info","message":"Run time: 20ms","timestamp":"2023-01-29T12:24:09.095Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:31:21.615Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:31:21.618Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:31:21.618Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:31:22.762Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:31:22.780Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:31:22.787Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:31:22.788Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:31:22.816Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:31:22.818Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:31:22.819Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:31:22.831Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:31:23.651Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:31:35.582Z"}
+{"level":"info","message":"Run time: 22ms","timestamp":"2023-01-29T12:31:35.584Z"}
+{"level":"info","message":"Run jarvis: 24ms","timestamp":"2023-01-29T12:31:40.485Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:33:08.526Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:33:08.529Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:33:08.530Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:33:09.622Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:33:09.636Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:33:09.641Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:33:09.642Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:33:09.670Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:33:09.672Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:33:09.673Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:33:09.686Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:33:09.753Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:33:17.669Z"}
+{"level":"info","message":"Run time: 19ms","timestamp":"2023-01-29T12:33:17.671Z"}
+{"level":"info","message":"Run jarvis: 13ms","timestamp":"2023-01-29T12:33:24.990Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:33:59.547Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:33:59.550Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:33:59.551Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:34:00.714Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:34:00.731Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:34:00.737Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:34:00.738Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:34:00.770Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:34:00.772Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:34:00.773Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:34:00.784Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:34:01.593Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:34:08.871Z"}
+{"level":"info","message":"Run time: 23ms","timestamp":"2023-01-29T12:34:08.874Z"}
+{"level":"info","message":"Run time: 20ms","timestamp":"2023-01-29T12:34:08.958Z"}
+{"level":"info","message":"Run time: 18ms","timestamp":"2023-01-29T12:34:19.821Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:34:21.872Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:34:32.638Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:34:32.642Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:34:32.642Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:34:33.832Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:34:33.849Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:34:33.855Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:34:33.856Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:34:33.880Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:34:33.882Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:34:33.883Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:34:33.902Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:34:34.722Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:34:43.012Z"}
+{"level":"info","message":"Run time: 21ms","timestamp":"2023-01-29T12:34:43.014Z"}
+{"level":"info","message":"Run jarvis: 13ms","timestamp":"2023-01-29T12:34:49.535Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:35:14.538Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:35:14.541Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:35:14.542Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:35:15.623Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:35:15.639Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:35:15.644Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:35:15.645Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:35:15.673Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:35:15.675Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:35:15.677Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:35:15.687Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:35:16.608Z"}
+{"level":"info","message":"Run jarvis: 15ms","timestamp":"2023-01-29T12:35:24.951Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:36:27.644Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:36:27.648Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:36:27.649Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:36:28.848Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:36:28.865Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:36:28.872Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:36:28.873Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:36:28.902Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:36:28.904Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:36:28.906Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:36:28.918Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:36:29.846Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:36:50.066Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:36:53.172Z"}
+{"level":"info","message":"Run time: 21ms","timestamp":"2023-01-29T12:36:53.174Z"}
+{"level":"info","message":"Run jarvis: 18ms","timestamp":"2023-01-29T12:36:58.589Z"}
+{"level":"info","message":"Run jarvis: 18ms","timestamp":"2023-01-29T12:37:05.247Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:37:20.509Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:37:20.513Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:37:20.513Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:37:21.604Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:37:21.617Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:37:21.622Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:37:21.623Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:37:21.652Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:37:21.657Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:37:21.658Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:37:21.669Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:37:22.355Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:40:59.479Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:40:59.482Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:40:59.483Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:41:00.635Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:41:00.654Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:41:00.659Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:41:00.661Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:41:00.691Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:41:00.694Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:41:00.696Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:41:00.706Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:41:01.597Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:42:12.489Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:42:12.492Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:42:12.493Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:42:13.571Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:42:13.584Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:42:13.591Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:42:13.592Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:42:13.621Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:42:13.622Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:42:13.623Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:42:13.634Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:42:14.502Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:43:09.524Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:43:09.528Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:43:09.530Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:43:10.998Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:43:11.013Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:43:11.018Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:43:11.019Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:43:11.052Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:43:11.063Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:43:11.064Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:43:11.077Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:43:11.848Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:43:26.459Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:43:26.464Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:43:26.465Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:43:27.640Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:43:27.655Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:43:27.661Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:43:27.662Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:43:27.692Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:43:27.694Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:43:27.696Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:43:27.708Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:43:28.477Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:44:05.567Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:44:05.570Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:44:05.570Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:44:06.750Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:44:06.764Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:44:06.769Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:44:06.771Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:44:06.799Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:44:06.802Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:44:06.803Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:44:06.813Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:44:07.598Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:44:20.592Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:44:20.595Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:44:20.596Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:44:21.664Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:44:21.678Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:44:21.682Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:44:21.683Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:44:21.712Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:44:21.714Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:44:21.716Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:44:21.728Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:44:22.556Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:44:42.830Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:45:04.445Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:45:04.449Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:45:04.449Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:45:05.587Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:45:05.601Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:45:05.606Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:45:05.607Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:45:05.636Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:45:05.638Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:45:05.639Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:45:05.650Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:45:07.732Z"}
+{"level":"info","message":"initModule:  time","timestamp":"2023-01-29T12:45:16.183Z"}
+{"level":"info","message":"Run time: 19ms","timestamp":"2023-01-29T12:45:16.185Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:45:26.911Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:46:20.647Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:46:20.651Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:46:20.651Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:46:21.748Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:46:21.762Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:46:21.767Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:46:21.768Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:46:21.834Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:46:21.836Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:46:21.837Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:46:21.847Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:46:22.730Z"}
+{"level":"info","message":"Run jarvis: 13ms","timestamp":"2023-01-29T12:46:30.764Z"}
+{"level":"info","message":"Run jarvis: 8ms","timestamp":"2023-01-29T12:46:30.870Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:46:42.939Z"}
+{"level":"info","message":"Run jarvis: 8ms","timestamp":"2023-01-29T12:46:48.370Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:47:07.481Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:47:07.491Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:47:07.493Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:47:08.686Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:47:08.701Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:47:08.707Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:47:08.708Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:47:08.773Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:47:08.776Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:47:08.777Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:47:08.788Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:47:09.721Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T12:47:29.995Z"}
+{"level":"info","message":"Run jarvis: 20ms","timestamp":"2023-01-29T12:47:46.597Z"}
+{"level":"info","message":"Run jarvis: 17ms","timestamp":"2023-01-29T12:47:46.720Z"}
+{"level":"info","message":"Run jarvis: 13ms","timestamp":"2023-01-29T12:47:49.638Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:53:51.703Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T12:53:51.707Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T12:53:51.708Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T12:53:53.020Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T12:53:53.087Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T12:53:53.094Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T12:53:53.095Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T12:53:53.168Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T12:53:53.172Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T12:53:53.175Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T12:53:53.213Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T12:53:54.207Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:14:46.782Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T13:14:46.786Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:14:46.787Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T13:14:48.233Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T13:14:48.254Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T13:14:48.262Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T13:14:48.263Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T13:14:48.293Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T13:14:48.297Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T13:14:48.299Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T13:14:48.315Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T13:14:49.205Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T13:15:09.442Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:16:49.559Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T13:16:49.562Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:16:49.563Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T13:16:50.734Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T13:16:50.751Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T13:16:50.757Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T13:16:50.758Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T13:16:50.789Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T13:16:50.791Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T13:16:50.792Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T13:16:50.803Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T13:16:51.543Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:17:02.550Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-29T13:17:02.554Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-29T13:17:02.557Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-29T13:17:03.845Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-29T13:17:03.860Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-29T13:17:03.864Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-29T13:17:03.865Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-29T13:17:03.894Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-29T13:17:03.896Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-29T13:17:03.897Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-29T13:17:03.911Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-29T13:17:04.756Z"}
+{"level":"info","message":"[Plugin] Can't retrieve remote plugins","timestamp":"2023-01-29T13:17:25.003Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T09:24:30.106Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T09:24:30.110Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T09:24:30.110Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T09:24:37.027Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T09:24:37.083Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T09:24:37.106Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T09:24:37.123Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T09:24:37.219Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T09:24:37.221Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T09:24:37.222Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T09:24:37.234Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T10:34:46.720Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T10:34:46.725Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T10:34:46.726Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T10:34:48.076Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T10:34:48.098Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T10:34:48.104Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T10:34:48.106Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T10:34:48.136Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T10:34:48.138Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T10:34:48.139Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T10:34:48.151Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:03:29.302Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T12:03:29.307Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:03:29.308Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T12:03:37.769Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T12:03:37.800Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T12:03:37.887Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T12:03:37.910Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T12:03:38.036Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T12:03:38.040Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T12:03:38.041Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T12:03:38.059Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-30T12:03:40.200Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:36:55.586Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T12:36:55.590Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:36:55.591Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T12:36:59.502Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T12:36:59.533Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T12:36:59.539Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T12:36:59.583Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T12:36:59.643Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T12:36:59.646Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T12:36:59.647Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T12:36:59.662Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-30T12:37:02.011Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:40:35.074Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T12:40:35.077Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:40:35.078Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T12:40:40.274Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T12:40:40.422Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T12:40:40.434Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T12:40:40.441Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T12:40:40.478Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T12:40:40.481Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T12:40:40.509Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T12:40:40.544Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-30T12:40:42.791Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:41:56.578Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-01-30T12:41:56.581Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-01-30T12:41:56.581Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-01-30T12:41:57.860Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-01-30T12:41:57.884Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-01-30T12:41:57.891Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-01-30T12:41:57.892Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-01-30T12:41:57.914Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-01-30T12:41:57.917Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-01-30T12:41:57.920Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-01-30T12:41:57.931Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-01-30T12:41:59.872Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-03-22T07:21:41.759Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-03-22T07:21:41.765Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-03-22T07:21:41.767Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-03-22T07:21:55.236Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-03-22T07:21:55.399Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-03-22T07:21:55.459Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-03-22T07:21:55.463Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-03-22T07:21:55.905Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-03-22T07:21:55.941Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-03-22T07:21:55.977Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-03-22T07:21:56.293Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-03-22T07:21:59.706Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-03-24T14:56:40.927Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-03-24T14:56:40.932Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-03-24T14:56:40.932Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-03-24T14:56:52.307Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-03-24T14:56:52.417Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-03-24T14:56:52.462Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-03-24T14:56:52.487Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-03-24T14:56:52.577Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-03-24T14:56:52.587Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-03-24T14:56:52.587Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-03-24T14:56:52.607Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-15T07:45:22.432Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-05-15T07:45:22.441Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-15T07:45:22.442Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-05-15T07:45:25.770Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-05-15T07:45:25.869Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-05-15T07:45:25.877Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-05-15T07:45:25.880Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-05-15T07:45:25.930Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-05-15T07:45:25.937Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-05-15T07:45:25.938Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-05-15T07:45:25.957Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-05-15T07:45:27.353Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-15T07:45:51.010Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-05-15T07:45:51.015Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-15T07:45:51.017Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-05-15T07:45:53.028Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-05-15T07:45:53.107Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-05-15T07:45:53.118Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-05-15T07:45:53.120Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-05-15T07:45:53.171Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-05-15T07:45:53.175Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-05-15T07:45:53.176Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-05-15T07:45:53.193Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-05-15T07:45:54.482Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-23T09:44:01.736Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-05-23T09:44:01.825Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-05-23T09:44:01.848Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-05-23T09:44:22.627Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-05-23T09:44:22.749Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-05-23T09:44:22.760Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-05-23T09:44:22.762Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-05-23T09:44:22.808Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-05-23T09:44:22.813Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-05-23T09:44:22.815Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-05-23T09:44:22.842Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T14:51:07.299Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-06-05T14:51:07.300Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T14:51:07.300Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-06-05T14:51:08.069Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-06-05T14:51:08.079Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-06-05T14:51:08.084Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-06-05T14:51:08.088Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-06-05T14:51:08.121Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-06-05T14:51:08.121Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-06-05T14:51:08.122Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-06-05T14:51:08.125Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-06-05T14:51:08.769Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-06-05T14:51:10.171Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T14:51:33.304Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-06-05T14:51:33.305Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T14:51:33.305Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-06-05T14:51:33.618Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-06-05T14:51:33.622Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-06-05T14:51:33.623Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-06-05T14:51:33.623Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-06-05T14:51:33.628Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-06-05T14:51:33.629Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-06-05T14:51:33.629Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-06-05T14:51:33.632Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-06-05T14:51:34.169Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T15:19:08.273Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-06-05T15:19:08.275Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-05T15:19:08.275Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-06-05T15:19:08.611Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-06-05T15:19:08.617Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-06-05T15:19:08.618Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-06-05T15:19:08.618Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-06-05T15:19:08.624Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-06-05T15:19:08.624Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-06-05T15:19:08.625Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-06-05T15:19:08.628Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-06-05T15:19:09.207Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-06-05T15:19:10.700Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-06T06:24:43.367Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-06-06T06:24:43.368Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-06-06T06:24:43.368Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-06-06T06:24:46.678Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-06-06T06:24:46.689Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-06-06T06:24:46.694Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-06-06T06:24:46.698Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-06-06T06:24:46.744Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-06-06T06:24:46.745Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-06-06T06:24:46.745Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-06-06T06:24:46.747Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-06-06T06:24:47.403Z"}
+{"0":{"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"},"level":"info","message":"HTTP Error: ","timestamp":"2023-06-06T06:24:48.797Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-08-09T15:41:41.672Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-08-09T15:41:41.673Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-08-09T15:41:41.673Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-08-09T15:41:44.248Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-08-09T15:41:44.259Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-08-09T15:41:44.264Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-08-09T15:41:44.271Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-08-09T15:41:44.299Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-08-09T15:41:44.300Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-08-09T15:41:44.301Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-08-09T15:41:44.305Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-08-09T15:41:44.968Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-08-10T12:36:57.011Z"}
+{"level":"info","message":" STARTING WSRNodeJS ","timestamp":"2023-08-10T12:36:57.012Z"}
+{"level":"info","message":"==========================================","timestamp":"2023-08-10T12:36:57.012Z"}
+{"level":"info","message":"Loading core properties...","timestamp":"2023-08-10T12:37:00.139Z"}
+{"level":"info","message":"Loading plugin properties plugins/jarvis/jarvis.prop ...","timestamp":"2023-08-10T12:37:00.153Z"}
+{"level":"info","message":"Loading custom properties...","timestamp":"2023-08-10T12:37:00.162Z"}
+{"level":"warn","message":"Bypass config:  interface","timestamp":"2023-08-10T12:37:00.167Z"}
+{"level":"info","message":"initModule:  jarvis","timestamp":"2023-08-10T12:37:00.200Z"}
+{"level":"info","message":"Speak remote: initialisation terminé. Bonjours monsieur, que puije faire pour vous? no callback","timestamp":"2023-08-10T12:37:00.200Z"}
+{"level":"info","message":"Remote: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F","timestamp":"2023-08-10T12:37:00.200Z"}
+{"level":"info","message":"Express server listening on port 8080","timestamp":"2023-08-10T12:37:00.204Z"}
+{"level":"info","message":"Can't retrieve remote ticker","timestamp":"2023-08-10T12:37:00.778Z"}

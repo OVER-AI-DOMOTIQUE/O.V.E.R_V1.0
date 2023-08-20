@@ -1,0 +1,56 @@
+[15:52:31] [LOGGING]	 STARTING LOGGING
+[15:52:31] [INIT]	 ==========================================
+[15:52:31] [INIT]	 S.A.R.A.H. => MICRO
+[15:52:31] [INIT]	 ==========================================
+[15:52:31] [INIT]	 Server: http://127.0.0.1:8080
+[15:52:31] [INIT]	 Confidence: 0,65
+[15:52:31] [INIT]	 ==========================================
+[15:52:31] [INIT]	 Starting Server: http://192.168.56.1:8888/
+[15:52:31] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[15:52:31] [WATCHER]	 Stop watching
+[15:52:31] [GRAMMAR]	 Load file: time.xml : E:\Dev\O.V.E.R\macros\time.xml
+[15:52:31] [GRAMMAR]	 Add to context list: time.xml
+[15:52:31] [WATCHER]	 Watching directory: macros
+[15:52:31] [GRAMMAR]	 Load file: jarvis.xml : E:\Dev\O.V.E.R\plugins\jarvis\jarvis.xml
+[15:52:31] [GRAMMAR]	 Add to context list: jarvis.xml
+[15:52:31] [WATCHER]	 Watching directory: plugins
+[15:52:31] [WATCHER]	 Start watching
+[15:52:31] [GRAMMAR]	 Context: default
+[15:52:31] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[15:52:31] [GRAMMAR]	 File: Load Grammar to Engine
+[15:52:31] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[15:52:31] [GRAMMAR]	 File: Load Grammar to Engine
+[15:52:31] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[15:52:31] [ENGINE - File]	 Init recognizer
+[15:52:31] [ENGINE - File]	 AudioLevel: 0
+[15:52:31] [ENGINE - File]	 MaxAlternates: 1
+[15:52:31] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[15:52:31] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[15:52:31] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[15:52:31] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[15:52:31] [GRAMMAR]	 Default: Load Grammar to Engine
+[15:52:31] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[15:52:31] [GRAMMAR]	 Default: Load Grammar to Engine
+[15:52:31] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[15:52:31] [ENGINE - Default]	 Init recognizer
+[15:52:31] [ENGINE - Default]	 AudioLevel: 0
+[15:52:31] [ENGINE - Default]	 MaxAlternates: 1
+[15:52:31] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[15:52:31] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[15:52:31] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[15:52:31] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[15:52:32] [ENGINE - Default]	 Start listening
+[15:52:32] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[15:52:32] [ENGINE]	 [Default] level: 0 state: Stopped
+[15:52:33] [TTS]	 Add Speaker Device: 0 Product: Casque (MT Stereo) Channels: 2 Playback: True
+[15:52:33] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[15:52:33] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[15:52:33] [ENGINE]	 Restart timeout: 3600000
+[15:52:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[15:52:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met le => 0,6145264
+[15:52:39] [RTPCLIENT]	 Stop RTPClient
+[15:52:39] [RTPCLIENT]	 Stop RTPClient
+[15:52:39] [RTPCLIENT]	 Stop RTPClient ... Done
+[15:52:39] [RTPCLIENT]	 Stop RTPClient ... Done
+[15:52:39] [ENGINE - File]	 Stop listening...done
+[15:52:39] [ENGINE - Default]	 Stop listening...done

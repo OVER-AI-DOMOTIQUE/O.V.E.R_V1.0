@@ -1,0 +1,1986 @@
+[10:24:27] [LOGGING]	 STARTING LOGGING
+[10:24:27] [INIT]	 ==========================================
+[10:24:27] [INIT]	 S.A.R.A.H. => MICRO
+[10:24:27] [INIT]	 ==========================================
+[10:24:27] [INIT]	 Server: http://127.0.0.1:8080
+[10:24:27] [INIT]	 Confidence: 0,65
+[10:24:27] [INIT]	 ==========================================
+[10:24:27] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[10:24:27] [HTTP]	 Exception: Failed to start HTTP server
+[10:24:27] [WATCHER]	 Stop watching
+[10:24:27] [GRAMMAR]	 Load file: time.xml : D:\Dev\Dev-O.V.E.R\O.V.E.R\macros\time.xml
+[10:24:27] [GRAMMAR]	 Add to context list: time.xml
+[10:24:27] [WATCHER]	 Watching directory: macros
+[10:24:27] [GRAMMAR]	 Load file: jarvis.xml : D:\Dev\Dev-O.V.E.R\O.V.E.R\plugins\jarvis\jarvis.xml
+[10:24:27] [GRAMMAR]	 Add to context list: jarvis.xml
+[10:24:27] [WATCHER]	 Watching directory: plugins
+[10:24:27] [WATCHER]	 Start watching
+[10:24:27] [GRAMMAR]	 Context: default
+[10:24:27] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[10:24:27] [GRAMMAR]	 File: Load Grammar to Engine
+[10:24:28] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[10:24:28] [GRAMMAR]	 File: Load Grammar to Engine
+[10:24:28] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[10:24:28] [ENGINE - File]	 Init recognizer
+[10:24:28] [ENGINE - File]	 AudioLevel: 0
+[10:24:28] [ENGINE - File]	 MaxAlternates: 1
+[10:24:28] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[10:24:28] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[10:24:28] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[10:24:28] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[10:24:28] [GRAMMAR]	 Default: Load Grammar to Engine
+[10:24:28] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[10:24:28] [GRAMMAR]	 Default: Load Grammar to Engine
+[10:24:28] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[10:24:28] [ENGINE - Default]	 Init recognizer
+[10:24:28] [ENGINE - Default]	 AudioLevel: 0
+[10:24:28] [ENGINE - Default]	 MaxAlternates: 1
+[10:24:28] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[10:24:28] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[10:24:28] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[10:24:28] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[10:24:28] [ENGINE - Default]	 Start listening
+[10:24:28] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[10:24:28] [ENGINE]	 [Default] level: 0 state: Stopped
+[10:24:29] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[10:24:29] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[10:24:29] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[10:24:29] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[10:24:29] [ENGINE]	 Restart timeout: 3600000
+[10:24:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,001
+[10:24:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,001
+[10:24:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,001
+[10:24:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,001
+[10:24:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,03890764
+[10:24:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,07411235
+[10:24:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,462296
+[10:24:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3361427
+[10:24:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,2703669
+[10:24:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2534957
+[10:24:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,07483333
+[10:24:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar => 0,1890898
+[10:24:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,227357
+[10:24:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un => 0,1751016
+[10:24:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar le PC => 0,2207862
+[10:24:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un film => 0,1511511
+[10:24:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,001
+[10:24:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,8263744
+[10:24:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,6564444
+[10:24:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,6355047
+[10:24:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,4537804
+[10:24:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,7188679
+[10:24:37] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[10:24:37] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[10:24:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:37] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[10:24:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1028802
+[10:24:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,8688583
+[10:24:38] [PLAYER]	 [0]Start Player
+[10:24:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche => 0,5292615
+[10:24:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,599665
+[10:24:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la vue => 0,5169349
+[10:24:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la comunoté => 0,3696063
+[10:24:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3467208
+[10:24:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2909594
+[10:24:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2903606
+[10:24:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3480513
+[10:24:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,3161911
+[10:24:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER reviens => 0,001
+[10:24:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,05008798
+[10:24:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteinds => 0,001
+[10:24:44] [PLAYER]	 [0]End Player
+[10:24:44] [PLAYER]	 [0]speaking false
+[10:24:44] [TTS]	 End speaking
+[10:24:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar => 0,0800949
+[10:24:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2287482
+[10:24:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,5384867
+[10:24:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,4627388
+[10:24:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[10:24:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3259455
+[10:24:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner => 0,3011969
+[10:24:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,2627102
+[10:24:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,07526788
+[10:24:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,06166206
+[10:24:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,1534774
+[10:24:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,218188
+[10:24:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,1742628
+[10:24:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,9345574
+[10:24:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,7628806
+[10:24:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,5330097
+[10:24:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4828964
+[10:24:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,404103
+[10:24:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1922053
+[10:24:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2728564
+[10:24:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,3364074
+[10:24:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3807085
+[10:24:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,294724
+[10:24:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,28608
+[10:24:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1999923
+[10:25:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,001
+[10:25:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,2928769
+[10:25:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind le => 0,02507618
+[10:25:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER active ton interface => 0,001
+[10:25:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume l'écrans => 0,001
+[11:34:45] [LOGGING]	 STARTING LOGGING
+[11:34:45] [INIT]	 ==========================================
+[11:34:45] [INIT]	 S.A.R.A.H. => MICRO
+[11:34:45] [INIT]	 ==========================================
+[11:34:45] [INIT]	 Server: http://127.0.0.1:8080
+[11:34:45] [INIT]	 Confidence: 0,65
+[11:34:45] [INIT]	 ==========================================
+[11:34:45] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[11:34:45] [HTTP]	 Exception: Failed to start HTTP server
+[11:34:45] [WATCHER]	 Stop watching
+[11:34:45] [GRAMMAR]	 Load file: time.xml : D:\Dev\Dev-O.V.E.R\O.V.E.R\macros\time.xml
+[11:34:45] [GRAMMAR]	 Add to context list: time.xml
+[11:34:45] [WATCHER]	 Watching directory: macros
+[11:34:45] [GRAMMAR]	 Load file: jarvis.xml : D:\Dev\Dev-O.V.E.R\O.V.E.R\plugins\jarvis\jarvis.xml
+[11:34:45] [GRAMMAR]	 Add to context list: jarvis.xml
+[11:34:45] [WATCHER]	 Watching directory: plugins
+[11:34:45] [WATCHER]	 Start watching
+[11:34:45] [GRAMMAR]	 Context: default
+[11:34:45] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[11:34:45] [GRAMMAR]	 File: Load Grammar to Engine
+[11:34:46] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[11:34:46] [GRAMMAR]	 File: Load Grammar to Engine
+[11:34:46] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[11:34:46] [ENGINE - File]	 Init recognizer
+[11:34:46] [ENGINE - File]	 AudioLevel: 0
+[11:34:46] [ENGINE - File]	 MaxAlternates: 1
+[11:34:46] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[11:34:46] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[11:34:46] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[11:34:46] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[11:34:46] [GRAMMAR]	 Default: Load Grammar to Engine
+[11:34:46] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[11:34:46] [GRAMMAR]	 Default: Load Grammar to Engine
+[11:34:46] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[11:34:46] [ENGINE - Default]	 Init recognizer
+[11:34:46] [ENGINE - Default]	 AudioLevel: 0
+[11:34:46] [ENGINE - Default]	 MaxAlternates: 1
+[11:34:46] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[11:34:46] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[11:34:46] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[11:34:46] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[11:34:47] [ENGINE - Default]	 Start listening
+[11:34:47] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[11:34:47] [ENGINE]	 [Default] level: 0 state: Stopped
+[11:34:47] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[11:34:47] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[11:34:47] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[11:34:47] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[11:34:47] [ENGINE]	 Restart timeout: 3600000
+[11:34:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6043613
+[11:34:48] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[11:34:48] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[11:34:48] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[11:34:48] [PLAYER]	 [0]Start Player
+[11:34:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,8609288
+[11:34:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3744738
+[11:34:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3362621
+[11:34:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4515149
+[11:34:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,4032224
+[11:34:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,2715175
+[11:34:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,8525907
+[11:34:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2241624
+[11:34:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,476698
+[11:34:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,3325935
+[11:34:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,5564091
+[11:34:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,5972832
+[11:34:54] [PLAYER]	 [0]End Player
+[11:34:54] [PLAYER]	 [0]speaking false
+[11:34:54] [TTS]	 End speaking
+[11:34:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4694431
+[11:34:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,337013
+[11:34:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,5187784
+[11:34:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,6164338
+[11:34:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,286407
+[11:34:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2725939
+[11:34:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les torraint => 0,0404278
+[11:34:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur fèillsbouque => 0,05595658
+[11:34:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les images => 0,1638095
+[11:34:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,105451
+[11:34:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:34:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,4138429
+[11:34:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche => 0,001
+[11:34:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,1286391
+[11:35:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1990301
+[11:35:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1560809
+[11:35:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5972926
+[11:35:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3172647
+[11:35:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[11:35:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,05799467
+[11:35:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1647136
+[11:35:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2785452
+[11:35:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,7053266
+[11:35:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2813938
+[11:35:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les pluguine => 0,4268719
+[11:35:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1031486
+[11:35:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2220396
+[11:35:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2843596
+[11:35:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,5114231
+[11:35:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,6069818
+[11:35:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir le => 0,5506895
+[11:35:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,4391612
+[11:35:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,3988208
+[11:35:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,3853244
+[11:35:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,2713141
+[11:35:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,2934994
+[11:35:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les images => 0,3299482
+[11:35:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,001
+[11:35:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,2371723
+[11:35:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2531273
+[11:35:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2926229
+[11:35:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[11:35:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,001
+[11:35:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,2008245
+[11:35:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,238426
+[11:35:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,3080786
+[11:35:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,5179201
+[11:35:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4665542
+[11:35:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,2916582
+[11:35:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2480226
+[11:35:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le store => 0,3290724
+[11:35:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3202192
+[11:35:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête => 0,5837835
+[11:35:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER restore => 0,2172758
+[11:35:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER raffraichis => 0,07215676
+[11:35:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER sauvegarde => 0,06395958
+[11:35:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,7885131
+[11:35:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2356692
+[11:35:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3756745
+[11:35:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1753266
+[11:35:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4296409
+[11:35:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3023032
+[11:35:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2201462
+[11:35:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2311712
+[11:35:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,1981435
+[11:35:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3578977
+[11:35:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1953657
+[11:35:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4300837
+[11:35:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6523221
+[11:35:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,7541249
+[11:35:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3292792
+[11:35:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,693412
+[11:35:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1457364
+[11:35:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,0710677
+[11:35:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2903844
+[11:35:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6790934
+[11:35:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche => 0,3437993
+[11:35:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,3356779
+[11:35:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,4149603
+[11:35:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4562719
+[11:35:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[11:35:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change => 0,2943033
+[11:35:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2714779
+[13:03:26] [LOGGING]	 STARTING LOGGING
+[13:03:26] [INIT]	 ==========================================
+[13:03:26] [INIT]	 S.A.R.A.H. => MICRO
+[13:03:26] [INIT]	 ==========================================
+[13:03:26] [INIT]	 Server: http://127.0.0.1:8080
+[13:03:26] [INIT]	 Confidence: 0,65
+[13:03:26] [INIT]	 ==========================================
+[13:03:27] [INIT]	 Starting Server: http://192.168.43.82:8888/
+[13:03:27] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[13:03:27] [WATCHER]	 Stop watching
+[13:03:27] [GRAMMAR]	 Load file: time.xml : F:\O.V.E.R\macros\time.xml
+[13:03:28] [GRAMMAR]	 Add to context list: time.xml
+[13:03:28] [WATCHER]	 Watching directory: macros
+[13:03:28] [GRAMMAR]	 Load file: jarvis.xml : F:\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:03:28] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:03:28] [WATCHER]	 Watching directory: plugins
+[13:03:28] [WATCHER]	 Start watching
+[13:03:28] [GRAMMAR]	 Context: default
+[13:03:28] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:03:28] [GRAMMAR]	 File: Load Grammar to Engine
+[13:03:28] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:03:29] [GRAMMAR]	 File: Load Grammar to Engine
+[13:03:29] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:03:29] [ENGINE - File]	 Init recognizer
+[13:03:29] [ENGINE - File]	 AudioLevel: 0
+[13:03:29] [ENGINE - File]	 MaxAlternates: 1
+[13:03:29] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:03:29] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:03:29] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:03:29] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:03:29] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:03:29] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:03:29] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:03:29] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:03:29] [ENGINE - Default]	 Init recognizer
+[13:03:29] [ENGINE - Default]	 AudioLevel: 0
+[13:03:30] [ENGINE - Default]	 MaxAlternates: 1
+[13:03:30] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:03:30] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:03:30] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:03:30] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:03:30] [ENGINE - Default]	 Start listening
+[13:03:30] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:03:30] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:03:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:31] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[13:03:31] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:03:31] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:03:31] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:03:31] [ENGINE]	 Restart timeout: 3600000
+[13:03:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,1363906
+[13:03:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2041675
+[13:03:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,3005502
+[13:03:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2043038
+[13:03:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2727378
+[13:03:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2714324
+[13:03:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2485048
+[13:03:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,2964831
+[13:03:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1382862
+[13:03:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,09435465
+[13:03:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,05721141
+[13:03:38] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[13:03:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2209478
+[13:03:39] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:03:39] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:03:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2363033
+[13:03:39] [PLAYER]	 [0]Start Player
+[13:03:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,3329828
+[13:03:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,08197443
+[13:03:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1087804
+[13:03:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,123928
+[13:03:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,03118319
+[13:03:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,04105859
+[13:03:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,03762892
+[13:03:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,08556121
+[13:03:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,001
+[13:03:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir mes => 0,05935061
+[13:03:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,1295549
+[13:03:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir mes images => 0,1071544
+[13:03:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,147025
+[13:03:45] [PLAYER]	 [0]End Player
+[13:03:45] [PLAYER]	 [0]speaking false
+[13:03:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2028379
+[13:03:45] [TTS]	 End speaking
+[13:03:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,1278473
+[13:03:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,08270251
+[13:03:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,09419305
+[13:03:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,1117006
+[13:03:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,1284025
+[13:03:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,1813409
+[13:03:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2507594
+[13:03:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,260796
+[13:03:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,2800131
+[13:03:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,3106918
+[13:03:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2049941
+[13:03:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1739755
+[13:03:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,1239369
+[13:03:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,1673644
+[13:03:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir le => 0,2224709
+[13:03:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le home => 0,2099009
+[13:03:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,1504446
+[13:03:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,09762589
+[13:03:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5218181
+[13:03:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4805015
+[13:03:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2904288
+[13:03:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3212521
+[13:03:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:03:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,136918
+[13:04:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,08694816
+[13:04:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,3232297
+[13:04:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner => 0,264895
+[13:04:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir le forum => 0,3225292
+[13:04:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,1701261
+[13:04:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,300562
+[13:04:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,203973
+[13:04:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteinds l'écrans => 0,1683647
+[13:04:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,08394732
+[13:04:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,09185641
+[13:04:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,2518651
+[13:04:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,2937761
+[13:04:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les => 0,4624223
+[13:04:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,4511756
+[13:04:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3949204
+[13:04:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les pluguine => 0,4315224
+[13:04:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1571308
+[13:04:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2253128
+[13:04:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,3178535
+[13:04:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,258007
+[13:04:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,3597033
+[13:04:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1417619
+[13:04:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,285368
+[13:04:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,2411387
+[13:04:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3499722
+[13:04:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,2282517
+[13:04:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,2665761
+[13:04:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les images => 0,2823793
+[13:04:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,201199
+[13:04:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4334363
+[13:04:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2388764
+[13:04:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3638325
+[13:04:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3287835
+[13:04:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3479801
+[13:04:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3437172
+[13:04:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4036518
+[13:04:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,547321
+[13:04:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3803969
+[13:04:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,6089527
+[13:04:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,1835109
+[13:04:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3266027
+[13:04:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2263395
+[13:04:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2096387
+[13:04:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,001
+[13:04:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,1224943
+[13:04:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,09366851
+[13:04:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les images => 0,2155102
+[13:04:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,16259
+[13:04:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un film => 0,2908335
+[13:04:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1826646
+[13:04:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2421074
+[13:04:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4262016
+[13:04:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,5041271
+[13:04:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1470286
+[13:04:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,264804
+[13:04:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4000653
+[13:04:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2379134
+[13:04:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,333201
+[13:04:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir mes => 0,4113822
+[13:04:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,3293803
+[13:04:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2675058
+[13:04:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3745956
+[13:04:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4010272
+[13:04:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4689863
+[13:04:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3727768
+[13:04:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1949705
+[13:04:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume => 0,5182296
+[13:04:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,5295435
+[13:04:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3120993
+[13:04:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,5597046
+[13:04:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir mes => 0,3776128
+[13:04:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2482185
+[13:04:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,3143465
+[13:04:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1525399
+[13:04:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,100754
+[13:04:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,128863
+[13:04:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3956954
+[13:04:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1548862
+[13:04:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4701664
+[13:04:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume => 0,415847
+[13:04:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,4521975
+[13:04:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,2576019
+[13:04:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,4390093
+[13:04:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,4291654
+[13:04:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,4405822
+[13:04:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:04:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1431184
+[13:04:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,1891117
+[13:04:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3859192
+[13:05:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4995058
+[13:05:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3910907
+[13:05:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3133447
+[13:05:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3932209
+[13:05:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2792422
+[13:05:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,1089196
+[13:05:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1299583
+[13:05:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2589141
+[13:05:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,3231715
+[13:05:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4372106
+[13:05:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,3164212
+[13:05:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4242465
+[13:05:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5160683
+[13:05:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,4535314
+[13:05:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner => 0,3259113
+[13:05:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,363039
+[13:05:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,5354865
+[13:05:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2287312
+[13:05:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2439711
+[13:05:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,3069149
+[13:05:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5273462
+[13:05:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,6409594
+[13:05:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,5217526
+[13:05:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3878569
+[13:05:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2089898
+[13:05:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,4628648
+[13:05:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,5454786
+[13:05:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,5559274
+[13:05:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3613943
+[13:05:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3065169
+[13:05:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5831195
+[13:05:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,7368697
+[13:05:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,5586731
+[13:05:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,448937
+[13:05:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2637654
+[13:05:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER suivant => 0,4867519
+[13:05:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3264538
+[13:05:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4391586
+[13:05:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,57105
+[13:05:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,6896908
+[13:05:39] [ENGINE - Default]	 REJECTED Trigger: 0,7190179 Text: OVER
+[13:05:39] [ENGINE - Default]	 REJECTED Trigger: 0,7190179 Text: OVER
+[13:05:39] [ENGINE - Default]	 SpeechRecognized: 104,0045ms Text: OVER reviens
+[13:05:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2202804
+[13:05:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2113829
+[13:05:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,298301
+[13:05:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2911294
+[13:05:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3489949
+[13:05:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3270585
+[13:05:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2927365
+[13:05:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:05:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1109397
+[13:05:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1632104
+[13:05:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2481931
+[13:05:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3866225
+[13:05:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3264486
+[13:05:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:05:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4800552
+[13:05:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6927854
+[13:05:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,42678
+[13:05:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1469402
+[13:06:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3491297
+[13:06:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1605666
+[13:06:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1977523
+[13:06:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2656055
+[13:06:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3071916
+[13:06:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,258011
+[13:06:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2692676
+[13:06:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change la => 0,2420931
+[13:06:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,5392359
+[13:06:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le home => 0,502875
+[13:06:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3866035
+[13:06:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3301766
+[13:06:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3548552
+[13:06:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,275929
+[13:06:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3154988
+[13:06:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,4331408
+[13:06:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,5651138
+[13:06:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1698891
+[13:06:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,4059107
+[13:06:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,226781
+[13:06:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2772694
+[13:06:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2742995
+[13:06:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2810505
+[13:06:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2125864
+[13:06:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,1152409
+[13:06:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,3544432
+[13:06:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,3332683
+[13:06:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,4344713
+[13:06:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir toute => 0,2623346
+[13:06:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir toute les => 0,3676174
+[13:06:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,04838888
+[13:06:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1687168
+[13:06:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,08595275
+[13:06:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2444753
+[13:06:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,1878803
+[13:06:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,272578
+[13:06:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,1985097
+[13:06:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,366415
+[13:06:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5185735
+[13:06:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2744548
+[13:06:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER reviens => 0,45362
+[13:06:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,7490173
+[13:06:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5029992
+[13:06:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3232711
+[13:06:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3835983
+[13:06:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,537922
+[13:06:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3789871
+[13:06:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4399571
+[13:06:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2280044
+[13:06:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3736277
+[13:06:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume l'écrans => 0,2557434
+[13:06:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,3111801
+[13:06:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2535393
+[13:06:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,3893529
+[13:06:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume => 0,4300245
+[13:06:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change => 0,001
+[13:06:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change la => 0,04198863
+[13:06:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,3092119
+[13:06:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,2951053
+[13:06:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change la => 0,1507868
+[13:06:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le home => 0,1060577
+[13:06:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me donner => 0,1125574
+[13:06:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me donner l'heure => 0,1306326
+[13:06:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6496289
+[13:06:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:06:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,367878
+[13:06:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,6598989
+[13:07:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:07:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3455936
+[13:07:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,04094017
+[13:07:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,03766639
+[13:07:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,08380345
+[13:07:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,07606698
+[13:07:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,4372014
+[13:07:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:07:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4377848
+[13:07:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête => 0,1397562
+[13:07:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête le => 0,2296568
+[13:07:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête le PC => 0,3024289
+[13:07:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,5004733
+[13:07:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,475454
+[13:07:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,5116265
+[13:07:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4375467
+[13:07:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,3920164
+[13:07:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,259956
+[13:07:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4407685
+[13:07:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2390696
+[13:07:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,08310366
+[13:07:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,390808
+[13:07:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,3854694
+[13:07:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se => 0,4308403
+[13:07:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4582877
+[13:07:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:07:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2042373
+[13:08:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,2597267
+[13:08:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,2823023
+[13:08:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3383726
+[13:08:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,405131
+[13:08:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1982632
+[13:08:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3345525
+[13:08:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,4839016
+[13:08:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche => 0,2370711
+[13:08:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,3113058
+[13:08:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,2025453
+[13:08:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,2992816
+[13:08:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,05486273
+[13:08:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3464637
+[13:08:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3781967
+[13:08:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,357219
+[13:08:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,6710873
+[13:08:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,6066856
+[13:08:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,4729287
+[13:08:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,3525127
+[13:08:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le Dévédé => 0,4455589
+[13:08:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,1966392
+[13:08:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2552039
+[13:08:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,2553699
+[13:08:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,304244
+[13:08:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,2378271
+[13:08:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,3667033
+[13:08:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,0789427
+[13:08:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,001
+[13:08:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind le => 0,02731679
+[13:08:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1534621
+[13:08:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:08:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1493142
+[13:08:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2957389
+[13:08:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,575972
+[13:08:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,001
+[13:09:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,1656932
+[13:09:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,5345391
+[13:09:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4152783
+[13:09:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,4389107
+[13:09:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1520885
+[13:09:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1868693
+[13:09:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2148278
+[13:09:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2479572
+[13:09:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4772006
+[13:09:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,34915
+[13:09:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,321557
+[13:09:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me donner => 0,2516857
+[13:09:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir toute les => 0,2472742
+[13:09:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:09:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,05248231
+[13:09:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1863339
+[13:09:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2059511
+[13:09:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2455516
+[13:09:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3677441
+[13:09:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,1645748
+[13:09:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,1008083
+[13:09:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:09:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,07613277
+[13:09:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3741299
+[13:09:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,4060174
+[13:09:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6925077
+[13:09:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4927871
+[13:09:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,5828394
+[13:09:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4775746
+[13:09:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,4137668
+[13:09:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,44168
+[13:09:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,3599448
+[13:09:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,173847
+[13:09:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2612674
+[13:09:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4754552
+[13:09:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4394072
+[13:09:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3549628
+[13:09:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3210728
+[13:09:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3136002
+[13:09:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1896086
+[13:09:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,04702457
+[13:09:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,03208153
+[13:09:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,06871618
+[13:09:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,2854769
+[13:09:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2769627
+[13:09:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3082349
+[13:09:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2543696
+[13:09:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:09:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:10:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,2449337
+[13:10:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2867968
+[13:10:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,3655623
+[13:10:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1659642
+[13:10:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1771482
+[13:10:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,3760169
+[13:10:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1694274
+[13:10:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1916484
+[13:10:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,156985
+[13:10:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,2580627
+[13:10:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,1390197
+[13:10:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,1444529
+[13:10:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le lecteur => 0,08607537
+[13:10:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2003132
+[13:10:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3072393
+[13:10:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,6621774
+[13:10:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,4778837
+[13:10:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,3725809
+[13:10:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2804923
+[13:10:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5699952
+[13:10:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,5700843
+[13:10:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,6312426
+[13:10:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,4866446
+[13:10:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,5278926
+[13:10:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,4901133
+[13:10:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,5459994
+[13:10:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1858011
+[13:10:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,231792
+[13:10:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1530905
+[13:10:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,232067
+[13:10:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,05496499
+[13:10:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,2389977
+[13:10:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,3106599
+[13:10:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,3144791
+[13:10:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2436894
+[13:10:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3535819
+[13:10:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3244966
+[13:10:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,2105542
+[13:10:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2726356
+[13:10:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,5086389
+[13:10:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2901601
+[13:10:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2537286
+[13:10:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2555651
+[13:10:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,3069239
+[13:10:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,1373044
+[13:10:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,331057
+[13:10:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,2036243
+[13:10:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,6725427
+[13:10:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4008019
+[13:10:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4391086
+[13:10:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4467109
+[13:10:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,2122962
+[13:10:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,1305892
+[13:10:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les => 0,1300614
+[13:10:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,1460836
+[13:10:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,6044018
+[13:10:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,4724162
+[13:10:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,4446643
+[13:10:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,4740887
+[13:10:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2865581
+[13:10:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2357922
+[13:10:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête l'ordinateur => 0,07765691
+[13:10:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar ton systaime => 0,1302234
+[13:10:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3074424
+[13:10:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,1515494
+[13:10:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2246326
+[13:10:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu => 0,1279189
+[13:10:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3025691
+[13:10:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4139607
+[13:10:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,3915178
+[13:10:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:10:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1078621
+[13:10:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2537587
+[13:10:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2858864
+[13:10:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1889074
+[13:11:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3801844
+[13:11:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2356252
+[13:11:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,1610374
+[13:11:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,2687685
+[13:11:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,4694387
+[13:11:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,5008569
+[13:11:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2174772
+[13:11:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,5574283
+[13:11:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,0882404
+[13:11:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,05174932
+[13:11:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume => 0,001
+[13:11:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1031792
+[13:11:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,2374123
+[13:11:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2511048
+[13:11:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2656853
+[13:11:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4588419
+[13:11:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4434069
+[13:11:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2414967
+[13:11:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4277343
+[13:11:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,4662678
+[13:11:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,3870499
+[13:11:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,213149
+[13:11:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4169708
+[13:11:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,1788413
+[13:11:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,140905
+[13:11:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar le => 0,1727969
+[13:11:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,03449353
+[13:11:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,2282482
+[13:11:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le lecteur => 0,06817041
+[13:11:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,001
+[13:11:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1248883
+[13:11:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un film => 0,01573519
+[13:11:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,0976999
+[13:11:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un film => 0,0142422
+[13:11:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,3775936
+[13:11:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,05162484
+[13:11:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,03473338
+[13:11:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,5363889
+[13:11:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1341706
+[13:11:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance => 0,1213518
+[13:11:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1625819
+[13:11:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind l'ordinateur => 0,1855811
+[13:11:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance seundeurbeurde => 0,1634251
+[13:11:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance ta page de conf => 0,176956
+[13:11:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,2254706
+[13:11:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,4584329
+[13:11:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,5026894
+[13:11:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe sur le => 0,2754923
+[13:11:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,1810985
+[13:11:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe sur le casque => 0,3295435
+[13:11:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,1454746
+[13:11:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2274198
+[13:11:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4274251
+[13:11:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6321493
+[13:11:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête => 0,5075742
+[13:11:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,378395
+[13:11:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se => 0,2793888
+[13:11:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1400484
+[13:11:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma => 0,3566286
+[13:11:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un => 0,3909214
+[13:11:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un film => 0,3975953
+[13:11:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1957537
+[13:11:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,257445
+[13:11:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,4357706
+[13:11:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir la => 0,4434243
+[13:11:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,3453465
+[13:11:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,03347585
+[13:11:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,199728
+[13:11:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2950644
+[13:11:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3989298
+[13:11:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:11:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,1829768
+[13:11:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,08002855
+[13:11:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1700133
+[13:11:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,0959736
+[13:11:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2813677
+[13:11:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5107073
+[13:12:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3030584
+[13:12:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,3565574
+[13:12:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,001
+[13:12:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,07781161
+[13:12:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,04116675
+[13:12:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,1058666
+[13:12:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3309618
+[13:12:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2805729
+[13:12:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,2699483
+[13:12:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,05434938
+[13:12:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2053944
+[13:12:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3209191
+[13:12:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1818238
+[13:12:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,09566627
+[13:12:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1442304
+[13:12:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1197916
+[13:12:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,09566201
+[13:12:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6914619
+[13:12:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,3977166
+[13:12:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,8008328
+[13:12:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,6367677
+[13:12:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,440261
+[13:12:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,435322
+[13:12:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1100769
+[13:12:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,22113
+[13:12:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3149112
+[13:12:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fenêtre => 0,3861917
+[13:12:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fenêtre suivante => 0,282584
+[13:12:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3581313
+[13:12:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,7423876
+[13:12:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,6271288
+[13:12:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,6141707
+[13:12:40] [ENGINE - Default]	 REJECTED Trigger: 0,6823261 Text: OVER
+[13:12:40] [ENGINE - Default]	 REJECTED Trigger: 0,6823261 Text: OVER
+[13:12:40] [ENGINE - Default]	 SpeechRecognized: 113,9158ms Text: OVER il est quelle heure
+[13:12:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3703946
+[13:12:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER préçedent => 0,1990297
+[13:12:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,02521425
+[13:12:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER reviens => 0,09595373
+[13:12:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,341361
+[13:12:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,1761979
+[13:12:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2655238
+[13:12:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1578172
+[13:12:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2217216
+[13:12:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4705055
+[13:12:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4175203
+[13:12:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,2222495
+[13:12:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,292574
+[13:12:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,1259353
+[13:12:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1687183
+[13:12:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur c pa => 0,3017273
+[13:12:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1604689
+[13:12:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:12:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,112996
+[13:12:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,3196056
+[13:12:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,05104319
+[13:13:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3680232
+[13:13:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,3358524
+[13:13:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,4793393
+[13:13:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4859195
+[13:13:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3686298
+[13:13:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3170662
+[13:13:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:13:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,001
+[13:13:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1065525
+[13:13:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1163009
+[13:13:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,001
+[13:13:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1085822
+[13:13:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2938783
+[13:13:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,6111546
+[13:13:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,5563431
+[13:13:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,5930738
+[13:13:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,001
+[13:13:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,3270538
+[13:13:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER balance les => 0,1804055
+[13:13:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la communauté => 0,185815
+[13:13:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER balance les nouvo => 0,2301207
+[13:13:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3266774
+[13:13:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,1555431
+[13:13:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,169092
+[13:13:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,001
+[13:13:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,2283771
+[13:13:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,001
+[13:13:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,09533679
+[13:13:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,07914466
+[13:13:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance => 0,001
+[13:13:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1162551
+[13:13:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance ta page de => 0,1169583
+[13:13:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,08634619
+[13:13:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,418295
+[13:13:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5582945
+[13:13:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,5383475
+[13:13:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,464741
+[13:13:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4152597
+[13:13:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,225264
+[13:13:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1610602
+[13:13:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,6522894
+[13:13:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,6320516
+[13:13:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le => 0,3586657
+[13:13:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,4665139
+[13:13:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1885781
+[13:13:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,4167643
+[13:13:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2783756
+[13:13:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,3541158
+[13:13:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3197442
+[13:13:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,4566125
+[13:13:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le lecteur => 0,3171153
+[13:13:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3156668
+[13:13:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,7768585
+[13:13:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,7302889
+[13:13:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,6971434
+[13:13:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,7209878
+[13:13:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma => 0,4142736
+[13:13:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un => 0,5150764
+[13:13:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,1440579
+[13:13:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,1531158
+[13:13:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,06968215
+[13:13:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3223247
+[13:13:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3456624
+[13:13:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3526824
+[13:13:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2959415
+[13:13:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3441927
+[13:13:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3338149
+[13:13:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,470798
+[13:13:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4112592
+[13:13:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:13:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,05584181
+[13:14:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:14:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4852797
+[13:14:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,5094485
+[13:14:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3913408
+[13:14:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2655955
+[13:14:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2713742
+[13:14:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3826566
+[13:14:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:14:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,7594513
+[13:14:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,5222927
+[13:14:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2837092
+[13:14:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,2857347
+[13:14:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:14:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2865267
+[13:14:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,4005635
+[13:14:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2331774
+[13:14:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1273902
+[13:14:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:14:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:14:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,001
+[13:14:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,146952
+[13:14:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2057094
+[13:14:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,001
+[13:14:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER active => 0,2401154
+[13:14:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3580325
+[13:14:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,04537464
+[13:14:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,3648973
+[13:14:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1451394
+[13:14:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar le PC => 0,3071727
+[13:14:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2741795
+[13:14:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,7135952
+[13:14:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,5446088
+[13:14:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu => 0,494064
+[13:14:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,5930555
+[13:14:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,3719181
+[13:14:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3787421
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4440419
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2471877
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2474392
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2172327
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,5747665
+[13:14:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5391149
+[13:14:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3122465
+[13:15:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3196976
+[13:15:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,5359969
+[13:15:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,4556713
+[13:15:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,2040824
+[13:15:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2569765
+[13:15:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3455926
+[13:15:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,5221243
+[13:15:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,5108725
+[13:15:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,5986916
+[13:15:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2091514
+[13:15:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1871803
+[13:15:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4546745
+[13:15:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,4024638
+[13:15:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,4695421
+[13:15:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER active => 0,3266166
+[13:15:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,36791
+[13:15:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,1516796
+[13:15:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,3256626
+[13:15:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,1905526
+[13:15:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,1745498
+[13:15:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le Dévédé => 0,2130414
+[13:15:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4317605
+[13:15:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le Dévédé => 0,2798043
+[13:15:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,6582308
+[13:15:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4979926
+[13:15:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,7639835
+[13:15:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,3808117
+[13:15:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,3199983
+[13:15:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3927289
+[13:15:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,4790797
+[13:15:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2072895
+[13:15:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1903063
+[13:15:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2598138
+[13:15:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2659868
+[13:15:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2750788
+[13:15:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2702423
+[13:15:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2594078
+[13:15:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2956953
+[13:15:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3144578
+[13:15:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,2149064
+[13:15:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3543791
+[13:15:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,222241
+[13:15:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,1810316
+[13:15:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,03854879
+[13:15:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:15:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,3219343
+[13:15:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,294477
+[13:15:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4221566
+[13:15:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4228429
+[13:15:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,132338
+[13:16:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2347476
+[13:16:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2302975
+[13:16:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,282424
+[13:16:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2707596
+[13:16:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3853827
+[13:16:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1286566
+[13:16:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,6134269
+[13:16:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,648751
+[13:16:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir images => 0,6122293
+[13:16:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2028133
+[13:16:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,1576312
+[13:16:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le Dévédé => 0,09952889
+[13:16:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,001
+[13:16:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,09055679
+[13:16:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1278023
+[13:16:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3872155
+[13:16:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,1148538
+[13:16:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2289987
+[13:16:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,3920793
+[13:16:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3693439
+[13:16:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3769296
+[13:16:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,7117658
+[13:16:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,7091928
+[13:16:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,6733091
+[13:16:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,6585342
+[13:16:31] [ENGINE - Default]	 REJECTED Trigger: 0,001 Text: OVER
+[13:16:31] [ENGINE - Default]	 REJECTED Trigger: 0,001 Text: OVER
+[13:16:31] [ENGINE - Default]	 SpeechRecognized: 117,0039ms Text: OVER ferme les mail
+[13:16:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3843689
+[13:16:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3878793
+[13:16:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4430494
+[13:16:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3938061
+[13:16:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,225801
+[13:16:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2049334
+[13:16:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1861809
+[13:16:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2043937
+[13:16:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1037704
+[13:16:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,3838617
+[13:16:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5982859
+[13:16:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4384488
+[13:16:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2741598
+[13:16:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2659864
+[13:16:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2608717
+[13:16:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,5112283
+[13:16:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,5418766
+[13:16:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,7061419
+[13:16:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,5921541
+[13:16:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,4713103
+[13:16:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,5554883
+[13:16:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le home => 0,3813459
+[13:16:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir les mail => 0,3307455
+[13:16:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir mes images => 0,2831699
+[13:16:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2207317
+[13:16:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,2098974
+[13:16:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,001
+[13:16:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,2095149
+[13:16:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,3830245
+[13:16:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2543905
+[13:16:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER balance les nouvo film => 0,1653773
+[13:16:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,09723763
+[13:16:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,0009999999
+[13:16:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,09685546
+[13:16:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3123145
+[13:16:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2650376
+[13:16:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2358031
+[13:16:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1817928
+[13:16:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1096303
+[13:16:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,1037683
+[13:16:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:16:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,2896068
+[13:16:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4482485
+[13:16:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,5021334
+[13:17:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3179071
+[13:17:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5135035
+[13:17:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,08294477
+[13:17:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2674198
+[13:17:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,1935699
+[13:17:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir la => 0,1594962
+[13:17:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,2034255
+[13:17:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir mes => 0,3111979
+[13:17:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1362238
+[13:17:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:17:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,09208358
+[13:17:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,4014519
+[13:17:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1157177
+[13:17:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2241613
+[13:17:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,4034933
+[13:17:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1212987
+[13:17:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,6632729
+[13:17:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,4388947
+[13:17:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,4992471
+[13:17:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4948709
+[13:17:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me donner => 0,5095615
+[13:17:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me donner l'heure => 0,4894605
+[13:17:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2099248
+[13:17:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4872991
+[13:17:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:17:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,2563751
+[13:17:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir => 0,07632083
+[13:17:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2960716
+[13:17:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3913313
+[13:17:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4578551
+[13:17:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,5159035
+[13:17:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,5841452
+[13:17:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1971299
+[13:17:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3729888
+[13:17:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5590515
+[13:17:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,6400772
+[13:17:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER arrête => 0,4037688
+[13:17:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4571545
+[13:17:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,5370637
+[13:17:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,5105394
+[13:17:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2072915
+[13:17:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,1797945
+[13:17:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,4306115
+[13:17:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,7494417
+[13:17:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:17:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,2984352
+[13:17:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le => 0,7536427
+[13:17:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir mes => 0,7236915
+[13:17:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir mes images => 0,6376432
+[13:17:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu => 0,07417654
+[13:17:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1291347
+[13:17:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:17:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2131187
+[13:17:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1762285
+[13:17:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,07695778
+[13:17:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1925736
+[13:18:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2790437
+[13:18:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2843538
+[13:18:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,175153
+[13:18:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2384021
+[13:18:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:18:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:18:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3459151
+[13:18:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,1806123
+[13:18:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2293922
+[13:18:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4379694
+[13:18:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5281319
+[13:18:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,6514117
+[13:18:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,6163231
+[13:18:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,7190087
+[13:18:10] [ENGINE - Default]	 REJECTED Trigger: 0,5201662 Text: OVER
+[13:18:10] [ENGINE - Default]	 REJECTED Trigger: 0,5201662 Text: OVER
+[13:18:10] [ENGINE - Default]	 SpeechRecognized: 121,244ms Text: OVER ferme les mail
+[13:18:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:18:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER reviens => 0,3771355
+[13:18:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,287973
+[13:18:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2680327
+[13:18:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,287973
+[13:18:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:18:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2179135
+[13:18:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,2512276
+[13:18:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2958569
+[13:18:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,249101
+[13:18:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2327783
+[13:18:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3209438
+[13:18:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3256541
+[13:35:55] [LOGGING]	 STARTING LOGGING
+[13:35:55] [INIT]	 ==========================================
+[13:35:55] [INIT]	 S.A.R.A.H. => MICRO
+[13:35:55] [INIT]	 ==========================================
+[13:35:55] [INIT]	 Server: http://127.0.0.1:8080
+[13:35:55] [INIT]	 Confidence: 0,65
+[13:35:55] [INIT]	 ==========================================
+[13:35:55] [HTTP]	 Exception: Failed to start HTTP server
+[13:35:55] [HTTP]	 Exception: Failed to start HTTP server
+[13:35:55] [WATCHER]	 Stop watching
+[13:35:55] [GRAMMAR]	 Load file: time.xml : D:\O.V.E.R\macros\time.xml
+[13:35:55] [GRAMMAR]	 Add to context list: time.xml
+[13:35:55] [WATCHER]	 Watching directory: macros
+[13:35:55] [GRAMMAR]	 Load file: jarvis.xml : D:\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:35:56] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:35:56] [WATCHER]	 Watching directory: plugins
+[13:35:56] [WATCHER]	 Start watching
+[13:35:56] [GRAMMAR]	 Context: default
+[13:35:56] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:35:56] [GRAMMAR]	 File: Load Grammar to Engine
+[13:35:56] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:35:56] [GRAMMAR]	 File: Load Grammar to Engine
+[13:35:56] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:35:56] [ENGINE - File]	 Init recognizer
+[13:35:56] [ENGINE - File]	 AudioLevel: 0
+[13:35:56] [ENGINE - File]	 MaxAlternates: 1
+[13:35:56] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:35:56] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:35:56] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:35:56] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:35:56] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:35:56] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:35:56] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:35:56] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:35:57] [ENGINE - Default]	 Init recognizer
+[13:35:57] [ENGINE - Default]	 AudioLevel: 0
+[13:35:57] [ENGINE - Default]	 MaxAlternates: 1
+[13:35:57] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:35:57] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:35:57] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:35:57] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:35:57] [ENGINE - Default]	 Start listening
+[13:35:57] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:35:57] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:35:57] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[13:35:57] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:35:57] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:35:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:35:57] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:35:58] [ENGINE]	 Restart timeout: 3600000
+[13:35:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1191282
+[13:35:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3250308
+[13:35:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2416766
+[13:36:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3246401
+[13:36:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2363746
+[13:36:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2554737
+[13:36:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1751136
+[13:36:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2535924
+[13:36:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3009844
+[13:36:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,08336107
+[13:36:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,127265
+[13:36:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1282626
+[13:36:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles => 0,2045328
+[13:36:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2730156
+[13:36:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4516183
+[13:36:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1320729
+[13:36:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1750001
+[13:36:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2791859
+[13:36:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,3209572
+[13:36:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,001
+[13:36:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,1220998
+[13:36:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER sauvegarde => 0,1058491
+[13:36:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,4935836
+[13:36:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,6004952
+[13:36:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,4123317
+[13:36:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2016303
+[13:36:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,4556515
+[13:36:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,4670572
+[13:36:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,4252315
+[13:36:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,4230752
+[13:36:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le Dévédé => 0,3533883
+[13:36:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les mail => 0,4175017
+[13:36:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le Dévédé => 0,294841
+[13:36:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2719951
+[13:36:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1472204
+[13:36:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,1928555
+[13:36:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1513146
+[13:36:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER allume => 0,330026
+[13:36:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,5968246
+[13:36:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,4548078
+[13:36:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4682983
+[13:36:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2960871
+[13:36:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2501457
+[13:36:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2754737
+[13:36:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1693992
+[13:36:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1661416
+[13:36:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1367104
+[13:36:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2561358
+[13:36:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1599892
+[13:36:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,07887927
+[13:36:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,001
+[13:36:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,01855713
+[13:36:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les film => 0,2452584
+[13:36:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,0730173
+[13:36:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,001
+[13:36:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,001
+[13:36:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,1888767
+[13:36:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe sur => 0,001
+[13:36:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe sur le => 0,001
+[13:36:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteinds l'écrans => 0,07145084
+[13:36:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe sur le casque => 0,03334656
+[13:36:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER balance les nouvo film => 0,1187012
+[13:36:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4448595
+[13:36:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,5012038
+[13:36:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4167775
+[13:36:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,529506
+[13:36:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4288592
+[13:36:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2698002
+[13:36:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2551682
+[13:36:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,559073
+[13:36:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4520844
+[13:36:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,239967
+[13:36:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,1026199
+[13:36:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,04019829
+[13:36:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les => 0,03989925
+[13:36:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme les mail => 0,03375726
+[13:36:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,5365185
+[13:36:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1197449
+[13:36:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3094662
+[13:36:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3662432
+[13:36:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,1464584
+[13:36:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,1677197
+[13:36:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,02258424
+[13:36:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5670235
+[13:36:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3499611
+[13:36:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3259799
+[13:36:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,6854572
+[13:36:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,271931
+[13:36:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1704094
+[13:36:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,2847264
+[13:36:53] [LOGGING]	 STARTING LOGGING
+[13:36:53] [INIT]	 ==========================================
+[13:36:53] [INIT]	 S.A.R.A.H. => MICRO
+[13:36:53] [INIT]	 ==========================================
+[13:36:54] [INIT]	 Server: http://127.0.0.1:8080
+[13:36:54] [INIT]	 Confidence: 0,65
+[13:36:54] [INIT]	 ==========================================
+[13:36:54] [HTTP]	 Exception: Failed to start HTTP server
+[13:36:54] [HTTP]	 Exception: Failed to start HTTP server
+[13:36:54] [WATCHER]	 Stop watching
+[13:36:54] [GRAMMAR]	 Load file: time.xml : D:\O.V.E.R\macros\time.xml
+[13:36:54] [GRAMMAR]	 Add to context list: time.xml
+[13:36:54] [WATCHER]	 Watching directory: macros
+[13:36:54] [GRAMMAR]	 Load file: jarvis.xml : D:\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:36:54] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:36:54] [WATCHER]	 Watching directory: plugins
+[13:36:54] [WATCHER]	 Start watching
+[13:36:54] [GRAMMAR]	 Context: default
+[13:36:54] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:36:54] [GRAMMAR]	 File: Load Grammar to Engine
+[13:36:54] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:36:54] [GRAMMAR]	 File: Load Grammar to Engine
+[13:36:54] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:36:54] [ENGINE - File]	 Init recognizer
+[13:36:54] [ENGINE - File]	 AudioLevel: 0
+[13:36:54] [ENGINE - File]	 MaxAlternates: 1
+[13:36:54] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:36:54] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:36:54] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:36:54] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:36:55] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:36:55] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:36:55] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:36:55] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:36:55] [ENGINE - Default]	 Init recognizer
+[13:36:55] [ENGINE - Default]	 AudioLevel: 0
+[13:36:55] [ENGINE - Default]	 MaxAlternates: 1
+[13:36:55] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:36:55] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:36:55] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:36:55] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:36:55] [ENGINE - Default]	 Start listening
+[13:36:55] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:36:55] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:36:55] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[13:36:55] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:36:55] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:36:55] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:36:55] [ENGINE]	 Restart timeout: 3600000
+[13:36:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4279607
+[13:36:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,442137
+[13:36:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4524008
+[13:36:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2390832
+[13:36:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3530358
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,4428755
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,392811
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2920594
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3542632
+[13:36:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,5439643
+[13:36:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3195784
+[13:36:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir la => 0,578509
+[13:36:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3310036
+[13:36:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir le home => 0,5508026
+[13:37:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2295123
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,05932674
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4243225
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2500164
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2691967
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2091632
+[13:37:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,240159
+[13:37:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1792625
+[13:37:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3835434
+[13:37:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux => 0,4281214
+[13:37:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu => 0,392997
+[13:37:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut se téma un => 0,4661118
+[13:37:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,3037884
+[13:37:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,148488
+[13:37:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,1595712
+[13:37:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,02824393
+[13:37:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,3533416
+[13:37:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,2891411
+[13:37:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4463914
+[13:37:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,4259118
+[13:37:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar => 0,6253927
+[13:37:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,5624254
+[13:37:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER redémar le => 0,6210346
+[13:37:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux => 0,4336929
+[13:37:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER tu peux me => 0,344658
+[13:37:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1318945
+[13:37:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2928982
+[13:37:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2793999
+[13:37:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3808616
+[13:37:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,365174
+[13:37:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:14] [RTPCLIENT]	 Stop RTPClient
+[13:37:14] [RTPCLIENT]	 Stop RTPClient
+[13:37:14] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:37:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2244194
+[13:37:14] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:37:14] [ENGINE - File]	 Stop listening...done
+[13:37:14] [ENGINE - Default]	 Stop listening...done
+[13:37:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2379905
+[13:37:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner => 0,08230923
+[13:37:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me => 0,123889
+[13:37:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:37:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,001
+[13:37:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,001
+[13:37:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,4077105
+[13:37:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,1816357
+[13:37:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,1839532
+[13:37:19] [RTPCLIENT]	 Stop RTPClient
+[13:37:19] [RTPCLIENT]	 Stop RTPClient
+[13:37:19] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:37:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,2319183
+[13:37:19] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:37:19] [ENGINE - File]	 Stop listening...done
+[13:37:19] [ENGINE - Default]	 Stop listening...done
+[13:40:33] [LOGGING]	 STARTING LOGGING
+[13:40:33] [INIT]	 ==========================================
+[13:40:33] [INIT]	 S.A.R.A.H. => MICRO
+[13:40:33] [INIT]	 ==========================================
+[13:40:33] [INIT]	 Server: http://127.0.0.1:8080
+[13:40:33] [INIT]	 Confidence: 0,65
+[13:40:33] [INIT]	 ==========================================
+[13:40:34] [INIT]	 Starting Server: http://192.168.43.82:8888/
+[13:40:34] [INIT]	 Starting Server: http://127.0.0.1:8888/
+[13:40:34] [WATCHER]	 Stop watching
+[13:40:34] [GRAMMAR]	 Load file: time.xml : D:\O.V.E.R\macros\time.xml
+[13:40:34] [GRAMMAR]	 Add to context list: time.xml
+[13:40:34] [WATCHER]	 Watching directory: macros
+[13:40:35] [GRAMMAR]	 Load file: jarvis.xml : D:\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:40:35] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:40:35] [WATCHER]	 Watching directory: plugins
+[13:40:35] [WATCHER]	 Start watching
+[13:40:35] [GRAMMAR]	 Context: default
+[13:40:35] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:40:36] [GRAMMAR]	 File: Load Grammar to Engine
+[13:40:37] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:40:40] [GRAMMAR]	 File: Load Grammar to Engine
+[13:40:40] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:40:40] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[13:40:40] [ENGINE - File]	 Init recognizer
+[13:40:41] [ENGINE - File]	 AudioLevel: 0
+[13:40:41] [ENGINE - File]	 MaxAlternates: 1
+[13:40:41] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:40:41] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:40:41] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:40:41] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:40:41] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:40:41] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:40:41] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:40:41] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:40:41] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[13:40:41] [ENGINE - Default]	 Init recognizer
+[13:40:42] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:40:42] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:40:42] [ENGINE - Default]	 AudioLevel: 0
+[13:40:42] [ENGINE - Default]	 MaxAlternates: 1
+[13:40:42] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:40:42] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:40:42] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:40:43] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:40:43] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:40:43] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:40:43] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:40:43] [ENGINE - Default]	 Start listening
+[13:40:43] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:40:43] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:40:43] [ENGINE]	 Restart timeout: 3600000
+[13:40:45] [PLAYER]	 [0]Start Player
+[13:40:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:40:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5426133
+[13:40:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,6224962
+[13:40:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4242166
+[13:40:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,434047
+[13:40:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,28866
+[13:40:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3501739
+[13:40:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3036675
+[13:40:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2904271
+[13:40:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2392478
+[13:40:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2243526
+[13:40:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2370411
+[13:40:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,3250849
+[13:40:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir => 0,3597093
+[13:40:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1158435
+[13:40:51] [PLAYER]	 [0]End Player
+[13:40:51] [PLAYER]	 [0]speaking false
+[13:40:51] [TTS]	 End speaking
+[13:40:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2741643
+[13:40:51] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,5447229
+[13:40:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER valide => 0,294765
+[13:40:52] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,21567
+[13:40:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2481109
+[13:40:53] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2222869
+[13:40:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:40:54] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,3017613
+[13:40:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,1001824
+[13:40:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,07945771
+[13:40:55] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,3454527
+[13:40:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre failleurfox => 0,2257651
+[13:40:56] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1394994
+[13:40:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme l'onglet => 0,09267824
+[13:40:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait => 0,7217388
+[13:40:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,6662494
+[13:40:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,6875554
+[13:40:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la vue => 0,699156
+[13:41:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,319757
+[13:41:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2208111
+[13:41:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2568996
+[13:41:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,269592
+[13:41:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,1574421
+[13:41:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2361993
+[13:41:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3210338
+[13:41:03] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5445856
+[13:41:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,4882612
+[13:41:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,1074323
+[13:41:04] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu => 0,1034511
+[13:41:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,2755509
+[13:41:05] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur facebook => 0,08627415
+[13:41:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,1878973
+[13:41:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2245958
+[13:41:06] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,2018935
+[13:41:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:07] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,208602
+[13:41:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2748404
+[13:41:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,16162
+[13:41:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1474476
+[13:41:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,2459976
+[13:41:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,290662
+[13:41:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,03944957
+[13:41:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1069764
+[13:41:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,08850025
+[13:41:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1533229
+[13:41:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,06011128
+[13:41:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,05688251
+[13:41:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,05377793
+[13:41:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,08183248
+[13:41:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,426652
+[13:41:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,4541425
+[13:41:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2616003
+[13:41:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change la => 0,09027748
+[13:41:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,07623954
+[13:41:17] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1637785
+[13:41:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:18] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,1754349
+[13:41:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance => 0,001
+[13:41:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2126681
+[13:41:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER réveilles toi => 0,1045682
+[13:41:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,3451164
+[13:41:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,2178169
+[13:41:21] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir le forum => 0,3142132
+[13:41:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,1767499
+[13:41:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,1490241
+[13:41:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2156689
+[13:41:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,1765036
+[13:41:25] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2665466
+[13:41:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,2979661
+[13:41:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,1288858
+[13:41:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1932076
+[13:41:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,5513092
+[13:41:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1402486
+[13:41:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3990224
+[13:41:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,5486422
+[13:41:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4984119
+[13:41:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,1944896
+[13:41:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3102672
+[13:41:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,6473216
+[13:41:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2757213
+[13:41:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,4721832
+[13:41:36] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3285379
+[13:41:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la => 0,2476274
+[13:41:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche => 0,2004953
+[13:41:37] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER change la => 0,2764906
+[13:41:38] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2809022
+[13:41:39] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le => 0,3440773
+[13:41:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,3219263
+[13:41:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,3505952
+[13:41:40] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,3388297
+[13:41:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3271033
+[13:41:41] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2114759
+[13:41:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,2503828
+[13:41:42] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3345546
+[13:41:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,2763381
+[13:41:43] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3613365
+[13:41:44] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3886635
+[13:41:45] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3108115
+[13:41:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4264813
+[13:41:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,2218709
+[13:41:46] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3575193
+[13:41:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1739411
+[13:41:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER active ton => 0,190703
+[13:41:47] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1251113
+[13:41:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind le => 0,1418677
+[13:41:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind => 0,07088492
+[13:41:48] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER éteind le => 0,07915205
+[13:41:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,001
+[13:41:49] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure => 0,001
+[13:41:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est => 0,03482682
+[13:41:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,001
+[13:41:50] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu me donner l'heure => 0,2257778
+[13:41:54] [LOGGING]	 STARTING LOGGING
+[13:41:54] [INIT]	 ==========================================
+[13:41:55] [INIT]	 S.A.R.A.H. => MICRO
+[13:41:55] [INIT]	 ==========================================
+[13:41:55] [INIT]	 Server: http://127.0.0.1:8080
+[13:41:55] [INIT]	 Confidence: 0,65
+[13:41:55] [INIT]	 ==========================================
+[13:41:55] [HTTP]	 Exception: Failed to start HTTP server
+[13:41:55] [HTTP]	 Exception: Failed to start HTTP server
+[13:41:55] [WATCHER]	 Stop watching
+[13:41:55] [GRAMMAR]	 Load file: time.xml : D:\O.V.E.R\macros\time.xml
+[13:41:55] [GRAMMAR]	 Add to context list: time.xml
+[13:41:55] [WATCHER]	 Watching directory: macros
+[13:41:55] [GRAMMAR]	 Load file: jarvis.xml : D:\O.V.E.R\plugins\jarvis\jarvis.xml
+[13:41:55] [GRAMMAR]	 Add to context list: jarvis.xml
+[13:41:55] [WATCHER]	 Watching directory: plugins
+[13:41:55] [WATCHER]	 Start watching
+[13:41:55] [GRAMMAR]	 Context: default
+[13:41:55] [GRAMMAR]	 Context: time.xml, jarvis.xml
+[13:41:55] [GRAMMAR]	 File: Load Grammar to Engine
+[13:41:55] [GRAMMAR]	 File: Load: time.xml Enabled: True
+[13:41:55] [GRAMMAR]	 File: Load Grammar to Engine
+[13:41:55] [GRAMMAR]	 File: Load: jarvis.xml Enabled: True
+[13:41:56] [ENGINE - File]	 Init recognizer
+[13:41:56] [ENGINE - File]	 AudioLevel: 0
+[13:41:56] [ENGINE - File]	 MaxAlternates: 1
+[13:41:56] [ENGINE - File]	 BabbleTimeout: 00:00:00
+[13:41:56] [ENGINE - File]	 InitialSilenceTimeout: 00:00:00
+[13:41:56] [ENGINE - File]	 EndSilenceTimeout: 00:00:00.1500000
+[13:41:56] [ENGINE - File]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:41:56] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:41:56] [GRAMMAR]	 Default: Load: time.xml Enabled: True
+[13:41:56] [GRAMMAR]	 Default: Load Grammar to Engine
+[13:41:56] [GRAMMAR]	 Default: Load: jarvis.xml Enabled: True
+[13:41:56] [ENGINE - Default]	 Init recognizer
+[13:41:56] [ENGINE - Default]	 AudioLevel: 0
+[13:41:56] [ENGINE - Default]	 MaxAlternates: 1
+[13:41:56] [ENGINE - Default]	 BabbleTimeout: 00:00:00
+[13:41:56] [ENGINE - Default]	 InitialSilenceTimeout: 00:00:00
+[13:41:56] [ENGINE - Default]	 EndSilenceTimeout: 00:00:00.1500000
+[13:41:56] [ENGINE - Default]	 EndSilenceTimeoutAmbiguous: 00:00:00.5000000
+[13:41:56] [ENGINE - Default]	 Start listening
+[13:41:56] [ENGINE]	 [Default] AudioFormatPcm channel: 1 AB/S: 32000 B/S: 16
+[13:41:56] [ENGINE]	 [Default] level: 0 state: Stopped
+[13:41:56] [TTS]	 Add Speaker Device: 0 Product: Haut-parleurs (Périphérique Hig Channels: 2 Playback: True
+[13:41:56] [TTS]	 [0]Name: Microsoft Hortense Desktop Culture: fr-FR
+[13:41:56] [TTS]	 [0]Name: Microsoft Zira Desktop Culture: en-US
+[13:41:56] [TTS]	 [0]Name: ScanSoft Sebastien_Full_22kHz Culture: fr-FR
+[13:41:56] [ENGINE]	 Restart timeout: 3600000
+[13:41:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:57] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2389108
+[13:41:57] [HTTP]	 Request received: http://127.0.0.1:8888/?tts=initialisation%20termin%C3%A9.%20Bonjours%20monsieur%2C%20que%20puije%20faire%20pour%20vous%3F
+[13:41:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:58] [TTS]	 Try speaking ... initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:41:58] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:59] [TTS]	 [0] Say: initialisation terminé. Bonjours monsieur, que puije faire pour vous?
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1246149
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,1629347
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais => 0,2376405
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,5050312
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:59] [PLAYER]	 [0]Start Player
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:41:59] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3484181
+[13:42:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2987869
+[13:42:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fais voir les => 0,2992909
+[13:42:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER fait voir la => 0,3882834
+[13:42:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,4758149
+[13:42:00] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,1207993
+[13:42:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met => 0,3812586
+[13:42:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,2466914
+[13:42:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a => 0,4261213
+[13:42:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,2823045
+[13:42:01] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER met a jour => 0,4457483
+[13:42:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3167541
+[13:42:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4208988
+[13:42:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,3893305
+[13:42:02] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,4468858
+[13:42:05] [PLAYER]	 [0]End Player
+[13:42:05] [PLAYER]	 [0]speaking false
+[13:42:05] [TTS]	 End speaking
+[13:42:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,45941
+[13:42:08] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,2753933
+[13:42:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,2063934
+[13:42:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on veut => 0,3908753
+[13:42:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,2168513
+[13:42:09] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance ta page => 0,1897508
+[13:42:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance ton interface => 0,08093303
+[13:42:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance ta page de => 0,1550636
+[13:42:10] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue => 0,3531466
+[13:42:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,4704723
+[13:42:11] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER lance => 0,001
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe => 0,07223619
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,05159115
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur => 0,07452032
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va sur le => 0,00999536
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,04014781
+[13:42:12] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER passe en vue global => 0,1337704
+[13:42:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,3864452
+[13:42:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme => 0,1939833
+[13:42:13] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le => 0,2126119
+[13:42:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:14] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,2920435
+[13:42:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER va => 0,5376589
+[13:42:15] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le => 0,2496004
+[13:42:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4399669
+[13:42:16] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,3490962
+[13:42:19] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:20] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,1128015
+[13:42:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3191172
+[13:42:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER on => 0,6760936
+[13:42:22] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre => 0,6784572
+[13:42:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre les => 0,655064
+[13:42:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2126659
+[13:42:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ouvre le => 0,4271424
+[13:42:23] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,430905
+[13:42:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,4346519
+[13:42:24] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le => 0,4758013
+[13:42:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:26] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,07076816
+[13:42:27] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER peux tu => 0,1488398
+[13:42:28] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:29] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2676458
+[13:42:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle => 0,2804354
+[13:42:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,2610148
+[13:42:30] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,3135056
+[13:42:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER => 0,001
+[13:42:31] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il => 0,3630114
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est => 0,202627
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le => 0,509175
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,4087553
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle => 0,3536639
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER il est quelle heure => 0,32815
+[13:42:32] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER ferme le lecteur => 0,3837667
+[13:42:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque => 0,3919646
+[13:42:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,3519451
+[13:42:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,3866832
+[13:42:33] [RTPCLIENT]	 Stop RTPClient
+[13:42:33] [RTPCLIENT]	 Stop RTPClient
+[13:42:33] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:42:33] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:42:33] [ENGINE - File]	 Stop listening...done
+[13:42:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER quelle heure est il => 0,3676028
+[13:42:33] [ENGINE - Default]	 Stop listening...done
+[13:42:33] [ENGINE - Default]	 RecognizeCompleted (42:33.6): <null>
+[13:42:33] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque => 0,4019793
+[13:42:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,4327542
+[13:42:34] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque => 0,222239
+[13:42:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche le disque B => 0,1982492
+[13:42:35] [RTPCLIENT]	 Stop RTPClient
+[13:42:35] [RTPCLIENT]	 Stop RTPClient
+[13:42:35] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:42:35] [RTPCLIENT]	 Stop RTPClient ... Done
+[13:42:35] [ENGINE - File]	 Stop listening...done
+[13:42:35] [ENGINE - Default]	 recognizer_SpeechHypothesized OVER affiche la vue => 0,2626297
+[13:42:35] [ENGINE - Default]	 Stop listening...done
+[13:42:35] [ENGINE - Default]	 RecognizeCompleted (42:35.4): <null>

@@ -1,0 +1,15 @@
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.exe.config
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.exe
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.pdb
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.csproj.AssemblyReference.cache
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.csproj.CoreCompileInputs.cache
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.exe
+C:\Users\Michel\source\repos\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.pdb
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.exe.config
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.exe
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\bin\Debug\ExempleConsoleJessy.pdb
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.csproj.AssemblyReference.cache
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.csproj.CoreCompileInputs.cache
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.exe
+C:\Users\jjess\Downloads\ExempleConsoleJessy\ExempleConsoleJessy\obj\Debug\ExempleConsoleJessy.pdb
