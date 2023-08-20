@@ -20,4 +20,4 @@ Pour installer Over, rien de compliqué. Il faut tout d'abord le télécharger p
 Pour utiliser Over, rendez-vous dans son dossier puis dans plugins et enfin dans Jarvis et ouvrez le fichier jarvis.xml qui vous donnera toutes les commandes vocales à exécuter.
 
 ## Licence:
-Le projet n'a pas de licence. Vous pouvez nous aider dans le développement en nous donnant des idées ou en signalant des bugs grâce au formulaire de contact de mon site : iaover.fr ou par mail : contact@iaover.fr.
+Le projet n'a pas de licence. Vous pouvez nous aider dans le développement en nous donnant des idées ou en signalant des bugs grâce au formulaire de contact de mon site : www.iaover.fr ou par mail : contact@iaover.fr.
